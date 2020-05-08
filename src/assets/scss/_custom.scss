@@ -1,0 +1,213 @@
+// In this scss you can overwrite all our scss, we suggested you to add your scss into this, so whenever the update comes it will not affect your code.
+.home-title
+{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: center;
+    letter-spacing: 30px;
+    padding: 0px 0px 40px 0px;
+    animation: fadeIn ease 5s;
+}
+
+.home-subtitle
+{
+    padding-top: 30;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #FCD99C; 
+    text-align: center;
+    letter-spacing: 5px;
+    padding: 0px 0px 250px 0px;
+    animation-delay: 10s;
+    animation: fadeIn ease 10s;
+}
+
+.home-bg
+{
+    padding: 0px 0px 0px 0px;
+}
+
+.OC-featured
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.OC-head-featured
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #223234;
+    padding: 0px 0px 20px 0px;
+}
+
+.OC-img-featured
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.OC-img-featured-pop
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+.OC-title-featured
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #223234;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+}
+
+.OC-subtitle-featured
+{
+    font-size: 10px;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #223234;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+}
+ 
+.OC-title-populations
+{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 20px;
+    padding: 20px 0px 50px 0px;
+    text-align: center;
+}
+
+.OC-spacing1rst
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.OC-spacing
+{
+    padding: 60px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contributions-title
+{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: center;
+    letter-spacing: 5px;
+    padding: 0px 0px 15px 0px;
+}
+
+.contributions-subtitle
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: left;
+    letter-spacing: 2px;
+    padding: 0px 0px 0px 0px;
+}
+
+.contributions-text
+{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+
+.contributions-paragraph
+{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    padding: 0px 0px 0px 0px;
+    text-justify: auto;
+}
+
+.about-img
+{
+    width: 100%
+}
+
+.OC-title-sources
+{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 5px;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+}
+
+
+  .nav-header-title
+{
+    font-size: 12px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: center;
+    letter-spacing: 10px;
+}
+  
+.OC-title-population
+{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 10px;
+    padding: 20px 0px 50px 0px;
+    text-align: center;
+}
+
+.OC-img-population
+{
+    max-width: 100%;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.margin-cards
+{
+    margin: 20px;
+}
+
+.OC-card-title-population
+{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 10px;
+    margin: 20px;
+    text-align: center;
+}

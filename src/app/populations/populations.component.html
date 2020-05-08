@@ -1,0 +1,105 @@
+<div class="row">
+    <div class="col-12">
+        <div class="row OC-spacing1rst">
+            <div class="col-md-6 col-xl-4">
+                <div class="OC-title-populations">AMERICA</div>
+            </div>
+            <div class="col-md-6 col-xl-8">
+                <div class="row">
+                    <ng-container *ngFor="let population of populations">
+                        <div class="col-4" *ngIf="population.region == 'america'">
+                            <a [routerLink]="['/populations/population', population.id]" routerLinkActive="active"><div class="card card-hover">
+                                <img class="OC-img-featured-pop" src="{{ population.image }}">
+                                <div class="card-body">
+                                    <div class="OC-title-featured">{{ population.title }}</div>
+                                    <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
+                                </div>
+                            </div></a>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+        </div>
+        <div class="row OC-spacing">
+            <div class="col-md-6 col-xl-8">
+                <div class="row">
+                    <ng-container *ngFor="let population of populations">
+                        <div class="col-4" *ngIf="population.region == 'asia'">
+                            <a [routerLink]="['/populations/population/', population.id]"><div class="card card-hover">
+                                <img class="OC-img-featured-pop" src="{{ population.image }}">
+                                <div class="card-body">
+                                    <div class="OC-title-featured">{{ population.title }}</div>
+                                    <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
+                                </div>
+                            </div></a>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="OC-title-populations">ASIA</div>
+            </div>
+        </div>
+        <div class="row OC-spacing">
+            <div class="col-6">
+                <div class="OC-title-populations">EUROPE</div>
+            </div>
+            <div class="col-md-6 col-xl-8">
+                <div class="row">
+                    <ng-container *ngFor="let population of populations">
+                        <div class="col-4" *ngIf="population.region == 'europe'">
+                            <a [routerLink]="['/populations/population/', population.id]"><div class="card card-hover">
+                                <img class="OC-img-featured-pop" src="{{ population.image }}">
+                                <div class="card-body">
+                                    <div class="OC-title-featured">{{ population.title }}</div>
+                                    <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
+                                </div>
+                            </div></a>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+        </div>
+        <div class="row OC-spacing">
+            <div class="col-md-6 col-xl-8">
+                <div class="row">
+                    <ng-container *ngFor="let population of populations">
+                        <div class="col-4" *ngIf="population.region == 'oceania'">
+                            <a [routerLink]="['/populations/population/', population.id]"><div class="card card-hover">
+                                <img class="OC-img-featured-pop" src="{{ population.image }}">
+                                <div class="card-body">
+                                    <div class="OC-title-featured">{{ population.title }}</div>
+                                    <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
+                                </div>
+                            </div></a>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="OC-title-populations">OCEANIA</div>
+            </div>
+        </div>
+        <div class="row OC-spacing">
+            <div class="col-6">
+                <div class="OC-title-populations">ANTARCTICA</div>
+            </div>
+            <div class="col-md-6 col-xl-8">
+                <div class="row">
+                    <ng-container *ngFor="let population of populations">
+                        <div class="col-4" *ngIf="population.region == 'antarctica'">
+                            <a [routerLink]="['/populations/population/', population.id]"><div class="card card-hover">
+                                <img class="OC-img-featured-pop" src="{{ population.image }}">
+                                <div class="card-body">
+                                    <div class="OC-title-featured">{{ population.title }}</div>
+                                    <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
+                                </div>
+                            </div></a>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<router-outlet></router-outlet>
