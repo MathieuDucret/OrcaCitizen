@@ -31,7 +31,7 @@ import { HomeService } from './services/getFeatured/featured.service';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MAT_FORM_FIELD_DEFAULT_OPTIONS} from '@angular/material/form-field';
 
-
+import { Ng2SearchPipeModule } from 'ng2-search-filter';
 
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   suppressScrollX: true,
@@ -63,8 +63,8 @@ const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
     PerfectScrollbarModule,
     MatChipsModule,
     MatTabsModule,
-    MatSlideToggleModule
-    
+    MatSlideToggleModule,
+    Ng2SearchPipeModule
   ],
   providers: [
     { provide: PERFECT_SCROLLBAR_CONFIG, useValue: DEFAULT_PERFECT_SCROLLBAR_CONFIG    },

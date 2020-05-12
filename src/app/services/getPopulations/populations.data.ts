@@ -19,7 +19,7 @@ export const populations: Populations[] = [
 },
 {
     id:"EU-3",
-    image: "assets/images/big/img1.jpg",
+    image: "assets/images/populations/iberian-pops.jpg",
     title: "Iberian",
     subtitle: "Strait of Gibraltar, Spain",
     link:"../populations/populationList",
@@ -35,7 +35,7 @@ export const populations: Populations[] = [
 },
 {
     id:"EU-2",
-    image: "assets/images/big/img1.jpg",
+    image: "assets/images/populations/scottish-pops.jpg",
     title: "Scottish",
     subtitle: "United-Kingdom",
     link:"../populations/populationList",

@@ -1,7 +1,13 @@
 export class Individuals {
+    id:string;
     idPod: string;
-    image: string;
+    leftSide: string;
+    rightSide: string;
     name: string;
     sex: string;
     alive: boolean;
+    idPopulation: string;
+    birthDate: string;
+    deathDate: string;
+    idMatriline: string;
   }

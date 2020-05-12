@@ -20,9 +20,33 @@ export const pods: Pods[] = [
     idPop:"AM-1",
 },
 {
-    id:"L-POD",
+    id:"A1-POD",
     image: "assets/images/big/img1.jpg",
-    population: "SOUTHERN RESIDENT",
-    idPop:"AM-2",
+    population: "IBERIAN",
+    idPop:"EU-3",
+},
+{
+    id:"A2-POD",
+    image: "assets/images/big/img1.jpg",
+    population: "IBERIAN",
+    idPop:"EU-3",
+},
+{
+    id:"B-POD",
+    image: "assets/images/big/img1.jpg",
+    population: "IBERIAN",
+    idPop:"EU-3",
+},
+{
+    id:"C-POD",
+    image: "assets/images/big/img1.jpg",
+    population: "IBERIAN",
+    idPop:"EU-3",
+},
+{
+    id:"D-POD",
+    image: "assets/images/big/img1.jpg",
+    population: "IBERIAN",
+    idPop:"EU-3",
 },
 ];

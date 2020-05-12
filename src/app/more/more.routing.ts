@@ -15,7 +15,7 @@ export const MoreRoutes: Routes = [
       data: {
         urls: [
           { title: 'More' },
-          { title: 'About', url: '/about' }
+          { title: 'About' }
         ]
       }
     },
@@ -25,7 +25,7 @@ export const MoreRoutes: Routes = [
       data: {
         urls: [
           { title: 'More'},
-          { title: 'News', url: '/news'  }
+          { title: 'News' }
         ]
       }
     },
@@ -35,7 +35,7 @@ export const MoreRoutes: Routes = [
       data: {
         urls: [
           { title: 'More'},
-          { title: 'Contributions', url: '/contributions'  }
+          { title: 'Contributions' }
         ]
       }
     },
@@ -45,7 +45,7 @@ export const MoreRoutes: Routes = [
       data: {
         urls: [
           { title: 'More'},
-          { title: 'Sources', url: '/sources'  }
+          { title: 'Sources' }
         ]
       }
     }    

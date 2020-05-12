@@ -12,19 +12,21 @@
     <!-- ============================================================== -->
 </ul>
 <ul class="navbar-nav">
-    <!-- Search --
+    <!-- Search  -->
     <li class="nav-item search-box">
-        <a (click)="showSearch = !showSearch" class="nav-link waves-effect waves-dark" href="javascript:void(0)">
+        <a (click)="showSearch = !showSearch" class="nav-link waves-effect waves-dark">
             <i class="ti-search"></i>
         </a>
         <form class="app-search position-absolute" [ngClass]="{'show-search': showSearch}">
-            <input type="text" class="form-control" placeholder="Search &amp; enter">
+            
+                <input type="text" class="form-control" placeholder="Search &amp; enter">
+            
             <a class="srh-btn" (click)="showSearch = !showSearch">
                 <i class="ti-close"></i>
             </a>
         </form>
     </li>
-    -- End Search -->
+     <!-- End Search -->
     <!-- Slide Toggle -->
     <li class="nav-item">
         <mat-slide-toggle >

@@ -18,7 +18,7 @@ export const ROUTES: RouteInfo[] = [
     submenu: []
   },
   {
-    path: '/search/organizations',
+    path: '/organizations',
     title: 'Organizations',
     icon: 'mdi mdi-wallet-travel',
     class: '',

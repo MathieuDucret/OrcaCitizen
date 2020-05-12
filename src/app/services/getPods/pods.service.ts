@@ -9,4 +9,10 @@ export class PodsService {
         return pods.filter(p=>p.idPop == idPop);
     }
     
+    public getPodById(idPod:string) {
+        let podRes: Pods = pods.find(p=>p.id == idPod);
+        return podRes;
+    }
+
+
 }

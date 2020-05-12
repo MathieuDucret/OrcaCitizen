@@ -31,9 +31,9 @@ export const homeList: Featured[] = [
 },
 {
     id:"EU-2",
-    image: "assets/images/big/img1.jpg",
+    image: "assets/images/populations/scottish-pops.jpg",
     title: "Scottish",
-    subtitle: "United-Kingdom",
+    subtitle: "United-Kingdom, Scotland",
     link:"../populations/populationList"
 }  
 ];

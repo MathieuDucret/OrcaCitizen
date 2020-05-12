@@ -16,7 +16,9 @@ import { PopulationsService } from '../services/getPopulations/populations.servi
 import { PopulationService } from '../services/getPopulation/population.service';
 import { PodsService } from '../services/getPods/pods.service';
 import { IndividualsService } from '../services/getIndividuals/individuals.service';
-// import { FilterimagesPipe } from './population/population.pipe';
+
+import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import {MatChipsModule} from '@angular/material/chips';
 
 @NgModule({
   imports: [
@@ -24,7 +26,9 @@ import { IndividualsService } from '../services/getIndividuals/individuals.servi
     RouterModule.forChild(PopulationsRoutes),
     FormsModule,
     ReactiveFormsModule,
-    NgbModule
+    MatChipsModule,
+    NgbModule,
+    Ng2SearchPipeModule
   ],
   declarations: [
     PopulationsComponent,

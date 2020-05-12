@@ -1,34 +1,63 @@
 <div class="row">
     <div class="col-12">
-        <div class="row">
-            <div class="col-4">
-                <img class="OC-img-population" src="assets/images/individuals/vert.jpg">
-                <div class="OC-head-featured mr-auto">Left side</div>
-            </div>
-            <div class="col-4">
-                <div class="OC-title-population">J-2</div>
-                <div class="OC-title-population">GRANNY</div>
-                <div class="OC-title-population">(1911-2016)</div>
-                <div class="row">
-                    <div class="col-4">
-
+        <div *ngIf="individual">
+            <div class="row">
+                <div class="col-4">
+                    <div class="card margin-cards">
+                        <img class="card-img OC-img-featured-pop" src="{{ individual.leftSide }}" >
                     </div>
-                    <div class="col-8">
-                        
+                    <div class="OC-head-featured mr-auto">Left side</div>
+                </div>
+                <div class="col-4">
+                    <div class="OC-title-population">{{ individual.id }}</div>
+                    <div class="OC-title-population">{{ individual.name }}</div>
+                    <div class="OC-title-population">({{ individual.birthDate }}-{{ individual.deathDate }})</div>
+                    <div class="row">
+                        <div class="col-4">
+
+                        </div>
+                        <div class="col-8">
+                            
+                        </div>
                     </div>
                 </div>
+                <div class="col-4">
+                    <div class="card margin-cards">
+                        <img class="card-img OC-img-featured-pop" src="{{ individual.rightSide }}" >
+                    </div>
+                    <div class="OC-head-featured mr-auto">Right side</div>
+                </div>
             </div>
-            <div class="col-4">
-                <img class="OC-img-population" src="assets/images/individuals/vert.jpg">
-                <div class="OC-head-featured mr-auto">Right side</div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-6">
-                <div class="OC-head-featured">Family</div>
-            </div>
-            <div class="col-6">
-                <div class="OC-head-featured">Media</div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="OC-head-featured">Matriline</div>
+                    
+                </div>
+                <div class="col-6">
+                    <div class="OC-head-featured">Media</div>
+                    <nav ngbNav #navz="ngbNav" class="nav-justified">
+                        <ng-container ngbNavItem>
+                          <a ngbNavLink class="nav-population">Photographies</a>
+                          <ng-template ngbNavContent>
+                            
+                            </ng-template>
+                        </ng-container>
+                        <ng-container ngbNavItem>
+                          <a ngbNavLink class="nav-population">Videos</a>
+                          <ng-template ngbNavContent>
+                            
+                          </ng-template>
+                        </ng-container>
+                        <ng-container ngbNavItem>
+                          <a ngbNavLink class="nav-population">Articles</a>
+                          <ng-template ngbNavContent>
+                            
+                          </ng-template>
+                        </ng-container>
+                        
+                      </nav>
+                      <div [ngbNavOutlet]="navz" class="mt-2"></div>
+                </div>
             </div>
         </div>
     </div>

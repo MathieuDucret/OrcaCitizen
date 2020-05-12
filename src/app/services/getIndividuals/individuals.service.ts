@@ -15,4 +15,14 @@ export class IndividualsService {
     public getIndividualsByPod(idPod: string) : Individuals[] {    
         return individuals.filter(p=>p.idPod == idPod);   
     }
+
+    public getIndividualById(idInd:string) {
+        let indRes: Individuals = individuals.find(p=>p.id == idInd);
+        return indRes;
+    }
+
+    public searchForIndividual(idPop:string,idPod:string,idInd:string) {
+        let searchRes: Individuals = individuals.find(p=>p.id == idInd && p.idPod == idPod && p.idPopulation == idPop);
+        return searchRes;
+    }
 }

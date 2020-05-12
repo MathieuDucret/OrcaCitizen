@@ -1,9 +1,13 @@
 <div class="row">
     <div class="col-12">
+        
+            <!-- <input placeholder="Search..." [(ngModel)]="searchText" >   -->
+        
+
         <div class="OC-title-populations">AMERICA</div>
         <div class="row OC-spacing1rst">
-            <div class="col-md-3 col-xl-2" *ngFor="let population of populations">
-                <div *ngIf="population.region == 'america'">
+            <ng-template ngFor let-population [ngForOf]="populations | filter:searchText" >
+                <div *ngIf="population.region == 'america'" class="col-md-3 col-xl-2">
                     <a [routerLink]="['/populations/population', population.id]">
                         <div class="card card-hover margin-cards">
                             <img class="OC-img-featured-pop" src="{{ population.image }}">
@@ -14,12 +18,12 @@
                         </div>
                     </a>
                 </div>
-            </div>
+            </ng-template>
         </div>
         <div class="OC-title-populations">EUROPE</div>
         <div class="row OC-spacing1rst">
-            <div class="col-md-3 col-xl-2" *ngFor="let population of populations">
-                <div *ngIf="population.region == 'europe'">
+            <ng-template ngFor let-population [ngForOf]="populations | filter:searchText" >
+                <div *ngIf="population.region == 'europe'" class="col-md-3 col-xl-2">
                     <a [routerLink]="['/populations/population', population.id]">
                         <div class="card card-hover margin-cards">
                             <img class="OC-img-featured-pop" src="{{ population.image }}">
@@ -30,39 +34,9 @@
                         </div>
                     </a>
                 </div>
-            </div>
+            </ng-template>
         </div>
     </div>
 </div>
 
-<div class="row">
-    <ng-template ngFor let-population [ngForOf]="populations" >
-        <div *ngIf="population.region == 'america'" class="col-md-3 col-xl-2">
-            <a [routerLink]="['/populations/population', population.id]">
-                <div class="card card-hover margin-cards">
-                    <img class="OC-img-featured-pop" src="{{ population.image }}">
-                    <div class="card-body">
-                        <div class="OC-title-featured">{{ population.title }}</div>
-                        <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-    </ng-template>
-</div>
-<div class="row">
-    <ng-template ngFor let-population [ngForOf]="populations" >
-        <div *ngIf="population.region == 'europe'" class="col-md-3 col-xl-2">
-            <a [routerLink]="['/populations/population', population.id]">
-                <div class="card card-hover margin-cards">
-                    <img class="OC-img-featured-pop" src="{{ population.image }}">
-                    <div class="card-body">
-                        <div class="OC-title-featured">{{ population.title }}</div>
-                        <div class="OC-subtitle-featured">{{ population.subtitle }}</div>
-                    </div>
-                </div>
-            </a>
-        </div>
-    </ng-template>
-</div>
 

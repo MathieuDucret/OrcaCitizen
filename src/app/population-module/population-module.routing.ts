@@ -20,7 +20,7 @@ export const PopulationsRoutes: Routes = [
   component: PopulationComponent,
   data: {
     urls: [
-      { title: 'Populations' , url: '/populations'},
+      { title: 'Populations' },
       { title: 'Southern Resident' }
     ]
   },
@@ -29,11 +29,11 @@ export const PopulationsRoutes: Routes = [
   ]
 },
 {
-  path: 'individual',
+  path: 'individual/:idPop/:idPod/:idInd',
   component: IndividualComponent,
   data: {
     urls: [
-      { title: 'Populations' , url: '/populations'},
+      { title: 'Populations'},
       { title: 'Southern Resident' },
       { title: 'J-2' }
     ]

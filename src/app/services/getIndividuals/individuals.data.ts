@@ -1,214 +1,413 @@
 import { Individuals } from './individuals';
 
 export const individuals: Individuals[] = [
+    // ********* Southern Resident - J-POD *********
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-1",
+    leftSide: "assets/images/individuals/j1-leftside.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "Ruffles",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-2",
+    leftSide: "assets/images/individuals/j2-leftside.jpg",
+    rightSide: "assets/images/individuals/j2-rightside.jpg",
+    name: "Granny",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-2",
+    birthDate: "1911",
+    deathDate: "2016",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-3",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-3",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-4",
-    sex: "female",
-    alive: false
-},
-{
-    idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-5",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-4",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-6",
-    sex: "female",
-    alive: true
-},
-{
-    idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-7",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
     sex: "male",
-    alive: true
+    alive: false,
+    id:"J-5",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
-    name: "J-8",
-    sex: "female",
-    alive: false
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
+    sex: "male",
+    alive: false,
+    id:"J-6",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
+    sex: "male",
+    alive: false,
+    id:"J-7",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
+},
+{
+    idPopulation: "AM-1",
+    idPod: "J-POD",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "",
+    sex: "male",
+    alive: false,
+    id:"J-8",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
+},
+{
+    idPopulation: "AM-1",
+    idPod: "J-POD",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-9",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-10",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-11",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-12",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-13",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-14",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-15",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-16",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-17",
     sex: "female",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-18",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-19",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-20",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-21",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-22",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-23",
     sex: "female",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-24",
     sex: "female",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-25",
     sex: "female",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-26",
     sex: "male",
-    alive: false
+    alive: false,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-27",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-28",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-29",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 },
 {
+    idPopulation: "AM-1",
     idPod: "J-POD",
-    image: "assets/images/individuals/J2.jpg",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
     name: "J-30",
     sex: "male",
-    alive: true
+    alive: true,
+    id:"J-1",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
+},
+
+    // ********* Iberian - A1-POD *********
+
+{
+    idPopulation: "AM-1",
+    idPod: "A1-POD",
+    leftSide: "assets/images/individuals/nodata.jpg",
+    rightSide: "assets/images/individuals/nodata.jpg",
+    name: "Lamari",
+    sex: "female",
+    alive: true,
+    id:"EU-3",
+    birthDate: "",
+    deathDate: "",
+    idMatriline: ""
 }
+
+
 ];

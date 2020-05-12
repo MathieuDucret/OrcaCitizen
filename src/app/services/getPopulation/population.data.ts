@@ -21,13 +21,13 @@ export const population: Population[] = [
 },
 {
     id:"EU-3",
-    image: "assets/images/populations/iberian-pops.jpg",
+    image: "assets/images/population/iberian-pop.jpg",
     name: "IBERIAN",
     history: ""
 },
 {
     id:"EU-2",
-    image: "assets/images/big/img1.jpg",
+    image: "assets/images/population/scottish-pop.jpg",
     name: "SCOTTISH",
     history: ""
 }  

@@ -203,11 +203,58 @@
 
 .OC-card-title-population
 {
-    font-size: 40px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.pods-padding
+{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.population-tab-number
+{
+    font-size: 30px;
     font-weight: 900;
     font-family: 'Source Sans Pro', sans-serif;
     color: #121919;
     letter-spacing: 10px;
-    margin: 20px;
+    text-align: center;
+}
+
+.nav-population
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #223234;
+}
+
+
+.population-grid-individuals
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+.population-grid-padding
+{
+    padding: 40px;
+}
+
+
+.individual-grid-title
+{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
     text-align: center;
 }
