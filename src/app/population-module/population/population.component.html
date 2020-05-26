@@ -11,54 +11,54 @@
                 
             </div>
             <div class="col-8">
-                <nav ngbNav #navz="ngbNav" class="nav-justified">
+                <nav ngbNav #navz="ngbNav" class="nav-justified nav-pills margin-cards">
                     <ng-container ngbNavItem>
-                      <a ngbNavLink class="nav-population">Population</a>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Population</a>
                       <ng-template ngbNavContent>
                         <div class="row">
-                          <div class="col-6">
-                            <table style="width:100%">
+                          <div class="col-6">                              
+                            <table style="width:100%" class="individual-tab-row">
                               <tr>
-                                <th>Population number</th>
-                                <td class="OC-title-population">73</td>
+                                <th class="p-b-15">Population number</th>
+                                <td class="p-b-15 OC-title-population">{{ population.populationNumber }}</td>
                               </tr>
                               <tr>
-                                <th>Region</th>
-                                <td>British Columbia, Canada</td>
+                                <th class="p-b-15">Location</th>
+                                <td class="p-b-15">{{ population.location }}</td>
                               </tr>
                               <tr>
-                                <th>Diet</th>
-                                <td>Chinook salmon</td>
+                                <th class="p-b-15">Diet</th>
+                                <td class="p-b-15">{{ population.diet }}</td>
                               </tr>
                               <tr>
-                                <th>Status</th>
+                                <th class="p-b-15">Status</th>
                                 <td>
-                                  <a href="#" class="badge badge-pill badge-danger">Endangered</a>
+                                  <a href="#" class="badge badge-pill badge-danger">{{ population.status }}</a>
                                 </td>
                               </tr>
                             </table>
                           </div>
                           <div class="col-6">
-                            <p>The Southern Resident killer whales (also called orcas/Orcinus orca) are a large extended family, or clan, comprised of three pods: J, K, and L pods. Within each pod, families form into sub-pods centered around older females, usually grandmothers or great-grandmothers. Both male and female offspring remain in close association with their mothers for life.</p>
-                            <p>From spring through fall, the Southern Resident killer whales are most often seen in the protected inshore waters of the Salish Sea. The Salish Sea includes the Strait of Juan de Fuca, Strait of Georgia, and Puget Sound, and all their connecting channels and adjoining waters, and the waters around and between the San Juan Islands in Washington State and the Gulf Islands in British Columbia.</p>
+                            {{ population.history }}
                           </div>
                         </div>
                         </ng-template>
                     </ng-container>
                     <ng-container ngbNavItem>
-                      <a ngbNavLink class="nav-population">Location</a>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Location</a>
+                      <ng-template ngbNavContent>
+                        
+
+                      </ng-template>
+                    </ng-container>
+                    <ng-container ngbNavItem>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Status</a>
                       <ng-template ngbNavContent>
                         
                       </ng-template>
                     </ng-container>
                     <ng-container ngbNavItem>
-                      <a ngbNavLink class="nav-population">Status</a>
-                      <ng-template ngbNavContent>
-                        
-                      </ng-template>
-                    </ng-container>
-                    <ng-container ngbNavItem>
-                      <a ngbNavLink class="nav-population">Resources</a>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Resources</a>
                       <ng-template ngbNavContent>
                         
                       </ng-template>
@@ -69,7 +69,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                    <div class="OC-head-featured pods-padding">Pods</div>
+                    <div class="OC-head-featured pods-padding">Pod(s)</div>
             </div>
             <div class="col-12">
                 <div class="row">

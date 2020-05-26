@@ -3,4 +3,9 @@ export class Population {
     image: string;
     name: string;
     history: string;
+    populationNumber:string;
+    lastUpdate: string;
+    diet:string;
+    status:string;
+    location:string;
   }

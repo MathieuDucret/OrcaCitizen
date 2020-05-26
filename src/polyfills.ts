@@ -80,3 +80,10 @@ import 'zone.js/dist/zone'; // Included with Angular CLI.
  * APPLICATION IMPORTS
  */
 (window as any).global = window;
+
+(window as any).algoliasearchProxy__default = null;
+(window as any).encodeProxy__default = null;
+
+(window as any).process = {
+    env: { DEBUG: undefined },
+  };

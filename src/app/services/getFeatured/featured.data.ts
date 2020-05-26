@@ -11,15 +11,8 @@ export const homeList: Featured[] = [
 {
     id:"AM-2",
     image: "assets/images/populations/puntanorte-pops.jpg",
-    title: "Punta Norte",
+    title: "Patagonian",
     subtitle: "Peninsula Valdes, Argentina",
-    link:"../populations/populationList"
-},
-{
-    id:"AM-3",
-    image: "assets/images/big/img1.jpg",
-    title: "Transient Bigg's",
-    subtitle: "British Columbia, Canada",
     link:"../populations/populationList"
 },
 {
@@ -33,7 +26,21 @@ export const homeList: Featured[] = [
     id:"EU-2",
     image: "assets/images/populations/scottish-pops.jpg",
     title: "Scottish",
-    subtitle: "United-Kingdom, Scotland",
+    subtitle: "Hebrides archipelago, Scotland",
     link:"../populations/populationList"
-}  
+},
+{
+    id:"EU-4",
+    image: "assets/images/populations/iceland-pops.jpg",
+    title: "Icelandic",
+    subtitle: "Iceland",
+    link:"../populations/populationList"
+},
+// {
+//     id:"AM-3",
+//     image: "assets/images/big/img1.jpg",
+//     title: "Transient Bigg's",
+//     subtitle: "British Columbia, Canada",
+//     link:"../populations/populationList"
+// },
 ];

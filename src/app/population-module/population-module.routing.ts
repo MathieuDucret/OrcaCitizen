@@ -10,19 +10,14 @@ export const PopulationsRoutes: Routes = [
   path: '',
   component: PopulationsComponent,
   data: {
-    urls: [
-      { title: 'Populations' }
-    ]
+    title: 'Populations'
   }
 },
 {
   path: 'population/:idPop',
   component: PopulationComponent,
   data: {
-    urls: [
-      { title: 'Populations' },
-      { title: 'Southern Resident' }
-    ]
+    title: 'Population'
   },
   children: [
     { path: 'individual-grid/:idPod', component : IndividualGridComponent }
@@ -32,11 +27,7 @@ export const PopulationsRoutes: Routes = [
   path: 'individual/:idPop/:idPod/:idInd',
   component: IndividualComponent,
   data: {
-    urls: [
-      { title: 'Populations'},
-      { title: 'Southern Resident' },
-      { title: 'J-2' }
-    ]
+    title: 'Individual'
   }
 }
 

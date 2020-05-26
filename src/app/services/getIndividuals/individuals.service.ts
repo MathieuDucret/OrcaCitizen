@@ -5,15 +5,29 @@ import { individuals } from './individuals.data';
 @Injectable()
 export class IndividualsService {
 
-    public individualsList: Individuals[] = individuals;
+    // public individualsList: Individuals[] = individuals;
     
-    public getIndividuals() {
-        return this.individualsList.slice(0);
-    }
+    // public getIndividuals() {
+    //     return this.individualsList.slice(0);
+    // }
 
 
     public getIndividualsByPod(idPod: string) : Individuals[] {    
         return individuals.filter(p=>p.idPod == idPod);   
+    }
+
+    public getAliveIndividuals() : Individuals[] {    
+        return individuals.filter(p=>p.alive == true);   
+    }
+
+    public getMaleIndividuals() : Individuals[] {    
+        return individuals.filter(p=>p.sex == 'Male');   
+    }
+
+    public getIndividualsByIdMatriline(idMatriline: string) : Individuals[] {    
+        console.log(individuals.filter(p=>p.idMatriline == idMatriline)  );
+        return  
+       
     }
 
     public getIndividualById(idInd:string) {

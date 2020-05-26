@@ -1,7 +1,7 @@
-<div class="row">
+<!-- <div class="row">
     <div class="col-12">
         
-            <!-- <input placeholder="Search..." [(ngModel)]="searchText" >   -->
+             <input placeholder="Search..." [(ngModel)]="searchText" >   
         
 
         <div class="OC-title-populations">AMERICA</div>
@@ -37,6 +37,21 @@
             </ng-template>
         </div>
     </div>
+</div> -->
+
+
+<div class="row">
+    <div class="col-12">
+
+            <!-- <input placeholder="Search..." [(ngModel)]="searchText" >   -->
+
+        <div *ngFor="let region of groupedKeys">
+        <div class="OC-title-populations">{{region | uppercase}}</div>
+        <div class="row OC-spacing1rst">
+            <div *ngFor="let population of groupedPopulations[region]" class="col-md-3 col-xl-2">
+            <app-populations-card-ui [population]="population"></app-populations-card-ui>
+            </div>
+        </div>
+        </div>
+    </div>
 </div>
-
-

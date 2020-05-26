@@ -12,7 +12,7 @@ export const populations: Populations[] = [
 {
     id:"AM-2",
     image: "assets/images/populations/puntanorte-pops.jpg",
-    title: "Punta Norte",
+    title: "Patagonian",
     subtitle: "Peninsula Valdes, Argentina",
     link:"../populations/populationList",
     region:"america"
@@ -25,23 +25,30 @@ export const populations: Populations[] = [
     link:"../populations/populationList",
     region:"europe"
 },
-{
-    id:"AM-3",
-    image: "assets/images/big/img1.jpg",
-    title: "Transient Bigg's",
-    subtitle: "British Columbia, Canada",
-    link:"../populations/populationList",
-    region:"america"
-},
+// {
+//     id:"AM-3",
+//     image: "assets/images/big/img1.jpg",
+//     title: "Transient Bigg's",
+//     subtitle: "British Columbia, Canada",
+//     link:"../populations/populationList",
+//     region:"america"
+// },
 {
     id:"EU-2",
     image: "assets/images/populations/scottish-pops.jpg",
     title: "Scottish",
-    subtitle: "United-Kingdom",
+    subtitle: "Hebrides archipelago, Scotland",
     link:"../populations/populationList",
     region:"europe"
 },
-
+{
+    id:"EU-4",
+    image: "assets/images/populations/iceland-pops.jpg",
+    title: "Icelandic",
+    subtitle: "Iceland",
+    link:"../populations/populationList",
+    region:"europe"
+},
 // {
 //     id:"AN-1",
 //     image: "assets/images/big/img1.jpg",

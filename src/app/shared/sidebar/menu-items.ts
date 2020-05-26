@@ -10,6 +10,14 @@ export const ROUTES: RouteInfo[] = [
     submenu: []
   },
   {
+    path: '/search',
+    title: 'Search',
+    icon: 'mdi mdi-magnify',
+    class: '',
+    extralink: false,
+    submenu: []
+  },
+  {
     path: '/populations',
     title: 'Populations',
     icon: 'mdi mdi-account',

@@ -8,7 +8,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { OrganizationsComponent } from "./organizations.component";
 import { OrganizationsRoutes } from './organizations.routing';
 
+import { OrganizationsCardComponent } from '../OC-component/organization-card/org-card.component';
 
+import { OrganizationsService } from '../services/getOrganizations/organizations.service';
 
 @NgModule({
   imports: [
@@ -19,7 +21,11 @@ import { OrganizationsRoutes } from './organizations.routing';
     NgbModule
   ],
   declarations: [
-    OrganizationsComponent
+    OrganizationsComponent,
+    OrganizationsCardComponent
+  ],
+  providers: [
+    OrganizationsService
   ]
 })
 export class OrganizationsModule {}

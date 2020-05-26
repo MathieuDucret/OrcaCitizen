@@ -11,6 +11,7 @@ import { PopulationComponent } from './population/population.component';
 import { PopulationsComponent } from './populations/populations.component';
 import { IndividualComponent } from './individual/individual.component';
 import { IndividualGridComponent } from '../OC-component/individual-grid/individual-grid.component';
+import { PopulationsCardUiComponent } from '../OC-component/population-card/card.component';
 
 import { PopulationsService } from '../services/getPopulations/populations.service';
 import { PopulationService } from '../services/getPopulation/population.service';
@@ -19,6 +20,7 @@ import { IndividualsService } from '../services/getIndividuals/individuals.servi
 
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import {MatChipsModule} from '@angular/material/chips';
+import { NgxImageZoomModule } from 'ngx-image-zoom';
 
 @NgModule({
   imports: [
@@ -28,13 +30,15 @@ import {MatChipsModule} from '@angular/material/chips';
     ReactiveFormsModule,
     MatChipsModule,
     NgbModule,
-    Ng2SearchPipeModule
+    Ng2SearchPipeModule,
+    NgxImageZoomModule
   ],
   declarations: [
     PopulationsComponent,
     PopulationComponent,
     IndividualComponent,
     IndividualGridComponent,
+    PopulationsCardUiComponent
     // FilterimagesPipe
   ],
   providers: [

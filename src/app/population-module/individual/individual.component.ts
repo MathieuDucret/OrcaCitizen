@@ -9,7 +9,7 @@ import { IndividualsService } from '../../services/getIndividuals/individuals.se
 })
 export class IndividualComponent implements OnInit, OnDestroy {
 
-
+  matriline: Individuals[];
   individual : Individuals;
   private sub: any;
 
@@ -23,6 +23,9 @@ export class IndividualComponent implements OnInit, OnDestroy {
   ngOnInit() {
     this.sub = this.route.params.subscribe( p => { 
       this.individual = this.individualsService.searchForIndividual(p['idPop'],p['idPod'],p['idInd']);
+      console.log(this.individual);
+      this.matriline = this.individualsService.getIndividualsByIdMatriline(this.individual.idMatriline);
+      console.log(this.matriline);
     });
   }
 

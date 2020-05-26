@@ -1,4 +1,7 @@
 // In this scss you can overwrite all our scss, we suggested you to add your scss into this, so whenever the update comes it will not affect your code.
+
+// @import "../../../node_modules/rfs/scss.scss";
+
 .home-title
 {
     font-size: 70px;
@@ -180,7 +183,7 @@
   
 .OC-title-population
 {
-    font-size: 50px;
+    font-size: 25px;
     font-weight: 900;
     font-family: 'Source Sans Pro', sans-serif;
     color: #121919;
@@ -246,7 +249,7 @@
 
 .population-grid-padding
 {
-    padding: 40px;
+    padding: 10px 40px 0px 40px;
 }
 
 
@@ -257,4 +260,53 @@
     font-family: 'Source Sans Pro', sans-serif;
     color: #121919;
     text-align: center;
+}
+
+.individual-main-title
+{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    letter-spacing: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.individual-main-padding
+{
+    padding-top: 50px;
+}
+
+.individual-main-subtitle
+{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.individual-tab-row
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #121919;
+}
+
+.nav-pills-custom {
+    border-radius: 10px!important;
+    color: #121919!important;
+}
+.nav-pills-custom:hover {
+        border-radius: 10px!important;
+        background-color: #FCD99C!important;
+        color: #121919!important;
+}
+
+.org-card
+{
+    background-color: #EDF2F3;
+    border-radius: 10px;
 }

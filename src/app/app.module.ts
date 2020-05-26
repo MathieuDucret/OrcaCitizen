@@ -32,6 +32,8 @@ import {MatTabsModule} from '@angular/material/tabs';
 import {MAT_FORM_FIELD_DEFAULT_OPTIONS} from '@angular/material/form-field';
 
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { NgAisModule } from 'angular-instantsearch';
+import {NgDynamicBreadcrumbModule} from "ng-dynamic-breadcrumb";
 
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   suppressScrollX: true,
@@ -64,7 +66,9 @@ const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
     MatChipsModule,
     MatTabsModule,
     MatSlideToggleModule,
-    Ng2SearchPipeModule
+    Ng2SearchPipeModule,
+    NgAisModule.forRoot(),
+    NgDynamicBreadcrumbModule
   ],
   providers: [
     { provide: PERFECT_SCROLLBAR_CONFIG, useValue: DEFAULT_PERFECT_SCROLLBAR_CONFIG    },

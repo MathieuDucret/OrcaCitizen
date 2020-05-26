@@ -6,32 +6,64 @@
                     <div class="card margin-cards">
                         <img class="card-img OC-img-featured-pop" src="{{ individual.leftSide }}" >
                     </div>
-                    <div class="OC-head-featured mr-auto">Left side</div>
+                    <div class="OC-head-featured text-center">
+                      Left side <i class="mdi mdi-copyright" [ngbTooltip]="tipContent" placement="right"></i>
+                      <ng-template #tipContent>{{ individual.leftcredits }}</ng-template>
+                    </div>
                 </div>
                 <div class="col-4">
-                    <div class="OC-title-population">{{ individual.id }}</div>
-                    <div class="OC-title-population">{{ individual.name }}</div>
-                    <div class="OC-title-population">({{ individual.birthDate }}-{{ individual.deathDate }})</div>
+                    <div class="individual-main-title individual-main-padding">{{ individual.id }}</div>
+                    <div class="individual-main-title">{{ individual.name }}</div>
+                    <div class="individual-main-subtitle">{{ individual.birthDate }} - {{ individual.deathDate }}</div>
                     <div class="row">
-                        <div class="col-4">
-
-                        </div>
-                        <div class="col-8">
-                            
-                        </div>
+                      <table style="width:100%" class="individual-tab-row">
+                        <tr>
+                          <th class="p-b-15">Age</th>
+                          <td class="p-b-15">{{ individual.age }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Sex</th>
+                          <td class="p-b-15">{{ individual.sex }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Ecotype</th>
+                          <td class="p-b-15">{{ individual.ecotype }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Population</th>
+                          <td class="p-b-15">{{ individual.population }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Location</th>
+                          <td class="p-b-15">{{ individual.location }}</td>
+                        </tr>
+                      </table>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card margin-cards">
                         <img class="card-img OC-img-featured-pop" src="{{ individual.rightSide }}" >
                     </div>
-                    <div class="OC-head-featured mr-auto">Right side</div>
+                    <div class="OC-head-featured text-center">
+                      Right side <i class="mdi mdi-copyright" [ngbTooltip]="tipContent" placement="right"></i>
+                      <ng-template #tipContent>{{ individual.rightcredits }}</ng-template>
+                    </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-6">
                     <div class="OC-head-featured">Matriline</div>
-                    
+                    <div *ngFor="let matriline of matriline">
+                      <table style="width:100%">
+                        <div *ngFor="let family of matriline.id">
+                          
+                            <tr>
+                              <th>{{ family.id }}</th>
+                            </tr>
+                          
+                        </div>
+                      </table>
+                    </div>
                 </div>
                 <div class="col-6">
                     <div class="OC-head-featured">Media</div>
@@ -39,7 +71,11 @@
                         <ng-container ngbNavItem>
                           <a ngbNavLink class="nav-population">Photographies</a>
                           <ng-template ngbNavContent>
-                            
+                            <form class="form-inline waves-light" mdbWavesEffect>
+                                <div class="md-form mt-0">
+                                  <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                                </div>
+                              </form>
                             </ng-template>
                         </ng-container>
                         <ng-container ngbNavItem>

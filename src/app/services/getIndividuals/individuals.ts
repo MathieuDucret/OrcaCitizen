@@ -10,4 +10,11 @@ export class Individuals {
     birthDate: string;
     deathDate: string;
     idMatriline: string;
+    population: string;
+    age: string;
+    ecotype:string;
+    location:string;
+    matrilineRole:string;
+    leftcredits:string;
+    rightcredits:string;
   }
