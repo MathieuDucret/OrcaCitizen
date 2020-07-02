@@ -9,14 +9,14 @@ export const ROUTES: RouteInfo[] = [
     extralink: false,
     submenu: []
   },
-  {
-    path: '/search',
-    title: 'Search',
-    icon: 'mdi mdi-magnify',
-    class: '',
-    extralink: false,
-    submenu: []
-  },
+  // {
+  //   path: '/search',
+  //   title: 'Search',
+  //   icon: 'mdi mdi-magnify',
+  //   class: '',
+  //   extralink: false,
+  //   submenu: []
+  // },
   {
     path: '/populations',
     title: 'Populations',

@@ -1,20 +1,51 @@
 <div class="row">
   <div class="col-12">
     <div class="OC-head-featured pods-padding" id="title">Individuals</div>
-    <div class="row">
-      <div class="col-2 population-grid-padding" *ngFor="let individuals of individuals" >
-          <div *ngIf="individuals">
-            <a [routerLink]="['/populations/individual',individuals.idPopulation,individuals.idPod, individuals.id]">
-              <div class="card card-hover">
-                <img class="population-grid-individuals" src="{{ individuals.leftSide }}">
-                <div class="card-body">
-                    <div class="individual-grid-title">{{ individuals.id }}</div>
-                    <div class="individual-grid-title">{{ individuals.name }}</div>
-                </div>
-              </div>
-            </a>
+
+    <nav ngbNav #navz="ngbNav" class="nav-justified nav-pills">
+      <ng-container ngbNavItem>
+        <a ngbNavLink class="nav-population nav-pills-custom">Alive</a>
+        <ng-template ngbNavContent>
+          <div class="row">
+            <div class="col-2 population-grid-padding" *ngFor="let individuals of individualsAlive" >
+              <ind-card [individuals]="individuals"></ind-card>
+            </div>
           </div>
-      </div>
-    </div>
+        </ng-template>
+      </ng-container>
+      <ng-container ngbNavItem>
+        <a ngbNavLink class="nav-population nav-pills-custom" (click)="getAllIndividuals()">All</a>
+        <ng-template ngbNavContent>
+          <div class="row">
+            <div class="col-2 population-grid-padding" *ngFor="let individuals of individualsAll" >
+              <ind-card [individuals]="individuals"></ind-card>
+            </div>
+          </div>
+        </ng-template>
+      </ng-container>
+      <ng-container ngbNavItem>
+        <a ngbNavLink class="nav-population nav-pills-custom" (click)="getMaleIndividuals()">Male</a>
+        <ng-template ngbNavContent>
+          <div class="row">
+            <div class="col-2 population-grid-padding" *ngFor="let individuals of individualsMale" >
+              <ind-card [individuals]="individuals"></ind-card>
+            </div>
+          </div>
+        </ng-template>
+      </ng-container>
+      <ng-container ngbNavItem>
+        <a ngbNavLink class="nav-population nav-pills-custom" (click)="getFemaleIndividuals()">Female</a>
+        <ng-template ngbNavContent>
+          <div class="row">
+            <div class="col-2 population-grid-padding" *ngFor="let individuals of individualsFemale" >
+              <ind-card [individuals]="individuals"></ind-card>
+            </div>
+          </div>
+        </ng-template>
+      </ng-container>
+    </nav>
+    <div [ngbNavOutlet]="navz" class="mt-2"></div>
   </div>
 </div>
+
+

@@ -10,7 +10,7 @@ export const population: Population[] = [
     diet:"Fish eater, mainly Chinook salmon",
     status:"Endangered",
     location:"Pacific Northwest, California coast, Southeast Alaska",
-    history: "<p>The Southern Resident killer whales (also called orcas/Orcinus orca) are a large extended family, or clan, comprised of three pods: J, K, and L pods. Within each pod, families form into sub-pods centered around older females, usually grandmothers or great-grandmothers. Both male and female offspring remain in close association with their mothers for life.</p><p>From spring through fall, the Southern Resident killer whales are most often seen in the protected inshore waters of the Salish Sea. The Salish Sea includes the Strait of Juan de Fuca, Strait of Georgia, and Puget Sound, and all their connecting channels and adjoining waters, and the waters around and between the San Juan Islands in Washington State and the Gulf Islands in British Columbia.</p>"
+    history: "The Southern Resident killer whales (also called orcas/Orcinus orca) are a large extended family, or clan, comprised of three pods: J, K, and L pods. Within each pod, families form into sub-pods centered around older females, usually grandmothers or great-grandmothers. Both male and female offspring remain in close association with their mothers for life. From spring through fall, the Southern Resident killer whales are most often seen in the protected inshore waters of the Salish Sea. The Salish Sea includes the Strait of Juan de Fuca, Strait of Georgia, and Puget Sound, and all their connecting channels and adjoining waters, and the waters around and between the San Juan Islands in Washington State and the Gulf Islands in British Columbia."
 },
 {
     id:"AM-2",

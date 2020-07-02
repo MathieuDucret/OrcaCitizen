@@ -17,4 +17,5 @@ export class Individuals {
     matrilineRole:string;
     leftcredits:string;
     rightcredits:string;
+    about:string;
   }

@@ -2,10 +2,11 @@
     <div class="card-body text-center">
         <div class="profile-pic m-b-5 m-t-5">
             <img src="{{ organization.logo }}" width="75" class="rounded-circle" alt="user" />
-            <h4 class="card-title m-t-20 m-b-0">{{ organization.name }}</h4>
+            <h5 class="card-title m-t-20 m-b-0">{{ organization.name }}</h5>
+            <h5 class="card-subtitle mdi mdi-email m-t-20 m-b-0"> {{ organization.location }}</h5>
         </div>
     </div>
-    <div class="p-25 m-t-5">
+    <div class="p-t-10 p-b-25 p-r-25 p-l-25">
         <div class="row text-center">
             <div class="col-6">
                 <a href="{{ organization.email }}" class="link d-flex align-items-center justify-content-center font-medium">

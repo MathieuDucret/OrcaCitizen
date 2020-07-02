@@ -50,6 +50,12 @@ export const pods: Pods[] = [
     idPop:"EU-3",
 },
 {
+    id:"IBR",
+    image: "assets/images/pods/IBR-pod.jpg",
+    population: "IBERIAN",
+    idPop:"EU-3",
+},
+{
     id:"WCC",
     image: "assets/images/pods/WCC-pod.jpg",
     population: "SCOTTISH",

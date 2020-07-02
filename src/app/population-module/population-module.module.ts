@@ -12,6 +12,7 @@ import { PopulationsComponent } from './populations/populations.component';
 import { IndividualComponent } from './individual/individual.component';
 import { IndividualGridComponent } from '../OC-component/individual-grid/individual-grid.component';
 import { PopulationsCardUiComponent } from '../OC-component/population-card/card.component';
+import { IndividualCardComponent } from '../OC-component/individual-card/individual-card.component';
 
 import { PopulationsService } from '../services/getPopulations/populations.service';
 import { PopulationService } from '../services/getPopulation/population.service';
@@ -23,6 +24,7 @@ import {MatChipsModule} from '@angular/material/chips';
 import { NgxImageZoomModule } from 'ngx-image-zoom';
 
 @NgModule({
+
   imports: [
     CommonModule,
     RouterModule.forChild(PopulationsRoutes),
@@ -38,7 +40,8 @@ import { NgxImageZoomModule } from 'ngx-image-zoom';
     PopulationComponent,
     IndividualComponent,
     IndividualGridComponent,
-    PopulationsCardUiComponent
+    PopulationsCardUiComponent,
+    IndividualCardComponent
     // FilterimagesPipe
   ],
   providers: [

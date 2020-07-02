@@ -5,11 +5,15 @@ import { RouterModule } from '@angular/router';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { SearchRoutes } from './search.routing';
 
-import { PopulationsService } from '../services/getPopulations/populations.service';
+// import { PopulationsService } from '../services/getPopulations/populations.service';
+import { IndividualsService } from '../services/getIndividuals/individuals.service';
+import { IndividualCardComponent } from '../OC-component/individual-card/individual-card.component';
 
-import { SearchComponent } from './advanced-search/search.component';
+import { SearchComponent } from './search.component';
 
-import { NgAisModule } from 'angular-instantsearch';
+import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { NgMultiSelectDropDownModule } from 'ng-multiselect-dropdown';
+// import { NgAisModule } from 'angular-instantsearch';
 
 @NgModule({
   imports: [
@@ -18,13 +22,17 @@ import { NgAisModule } from 'angular-instantsearch';
     FormsModule,
     ReactiveFormsModule,
     NgbModule,
-    NgAisModule
+    Ng2SearchPipeModule,
+    NgMultiSelectDropDownModule.forRoot()
+    // NgAisModule
   ],
   declarations: [
-    SearchComponent
+    SearchComponent,
+    // IndividualCardComponent
   ],
   providers: [
-    PopulationsService
+    // PopulationsService,
+    IndividualsService
   ]
 })
 export class SearchModule {}

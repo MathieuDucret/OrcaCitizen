@@ -13,7 +13,10 @@ import { PodsService } from '../../services/getPods/pods.service' ;
 export class IndividualGridComponent  implements OnInit, OnDestroy {
 
 
-  individuals: Individuals[];
+  individualsAlive: Individuals[];
+  individualsAll: Individuals[];
+  individualsMale: Individuals[];
+  individualsFemale: Individuals[];
   private sub: any;
 
   constructor(
@@ -26,7 +29,28 @@ export class IndividualGridComponent  implements OnInit, OnDestroy {
 
   ngOnInit() {
     this.sub = this.route.params.subscribe( p => { 
-      this.individuals = this.individualsService.getIndividualsByPod(p['idPod']);
+      this.individualsAlive = this.individualsService.getAliveIndividuals(p['idPod']);
+    });
+  }
+
+  public getAllIndividuals()
+  {
+    this.sub = this.route.params.subscribe( p => { 
+      this.individualsAll = this.individualsService.getIndividualsByPod(p['idPod']);
+    });
+  }
+
+  public getMaleIndividuals()
+  {
+    this.sub = this.route.params.subscribe( p => { 
+      this.individualsMale = this.individualsService.getMaleIndividuals(p['idPod']);
+    });
+  }
+
+  public getFemaleIndividuals()
+  {
+    this.sub = this.route.params.subscribe( p => { 
+      this.individualsFemale = this.individualsService.getFemaleIndividuals(p['idPod']);
     });
   }
 

@@ -9,7 +9,7 @@ import { PopulationsService } from '../../services/getPopulations/populations.se
 
 export class PopulationsComponent implements OnInit, OnDestroy {
 
-  searchText: any;
+  public search : string;
   private sub: any;
   public populations: Populations[] = [];
   public groupedPopulations: Array<{ [key: string]: Populations }>;

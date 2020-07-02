@@ -1,0 +1,9 @@
+<div *ngIf="individuals">
+  <a [routerLink]="['/populations/individual',individuals.idPopulation,individuals.idPod, individuals.id]">
+  <div class="card card-hover">
+      <img class="population-grid-individuals" src="{{ individuals.leftSide }}">
+  </div>
+  <div class="individual-grid-title">{{ individuals.id }}</div>
+  <div class="individual-grid-title">{{ individuals.name }}</div>
+  </a>
+</div>

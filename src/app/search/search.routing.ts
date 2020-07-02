@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { SearchComponent } from './advanced-search/search.component';
+import { SearchComponent } from './search.component';
 
 
 

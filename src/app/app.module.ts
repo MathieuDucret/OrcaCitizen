@@ -31,6 +31,7 @@ import { HomeService } from './services/getFeatured/featured.service';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MAT_FORM_FIELD_DEFAULT_OPTIONS} from '@angular/material/form-field';
 
+
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { NgAisModule } from 'angular-instantsearch';
 import {NgDynamicBreadcrumbModule} from "ng-dynamic-breadcrumb";
