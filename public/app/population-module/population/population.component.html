@@ -1,0 +1,93 @@
+<div class="row">
+    <div class="col-12">
+        <div *ngIf="population">
+            <div class="OC-title-population">{{ population.name }}</div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+              <div class="card margin-cards">
+                <img class="card-img OC-img-featured-pop" src="{{ population.image }}" >
+              </div>
+                
+            </div>
+            <div class="col-8">
+                <nav ngbNav #navz="ngbNav" class="nav-justified nav-pills margin-cards">
+                    <ng-container ngbNavItem>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Population</a>
+                      <ng-template ngbNavContent>
+                        <div class="row">
+                          <div class="col-6">                              
+                            <table style="width:100%" class="individual-tab-row">
+                              <tr>
+                                <th class="p-b-15">Population number</th>
+                                <td class="p-b-15 OC-title-population">{{ population.populationNumber }}</td>
+                              </tr>
+                              <tr>
+                                <th class="p-b-15">Location</th>
+                                <td class="p-b-15">{{ population.location }}</td>
+                              </tr>
+                              <tr>
+                                <th class="p-b-15">Diet</th>
+                                <td class="p-b-15">{{ population.diet }}</td>
+                              </tr>
+                              <tr>
+                                <th class="p-b-15">Status</th>
+                                <td>
+                                  <a href="#" class="badge badge-pill badge-danger">{{ population.status }}</a>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                          <div class="col-6">
+                            {{ population.history }}
+                          </div>
+                        </div>
+                        </ng-template>
+                    </ng-container>
+                    <ng-container ngbNavItem>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Location</a>
+                      <ng-template ngbNavContent>
+                        
+
+                      </ng-template>
+                    </ng-container>
+                    <ng-container ngbNavItem>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Conservation</a>
+                      <ng-template ngbNavContent>
+                        {{ population.conservation }}
+                      </ng-template>
+                    </ng-container>
+                    <ng-container ngbNavItem>
+                      <a ngbNavLink class="nav-population nav-pills-custom">Resources</a>
+                      <ng-template ngbNavContent>
+                        
+                      </ng-template>
+                    </ng-container>
+                  </nav>
+                  <div [ngbNavOutlet]="navz" class="mt-2"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                    <div class="OC-head-featured pods-padding">Pod(s)</div>
+            </div>
+            <div class="col-12">
+                <div class="row">
+                  <div class="col-3" *ngFor="let pods of pods" >
+                      <div *ngIf="pods">
+                        <a [routerLink]="['./individual-grid',pods.id]">
+                          <div class="card card-hover margin-cards">
+                            <img class="OC-img-featured-pop" src="{{ pods.image }}">
+                            <div class="card-body">
+                                <div class="OC-card-title-population">{{ pods.id }}</div>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+ <router-outlet></router-outlet>

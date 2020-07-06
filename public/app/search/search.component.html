@@ -1,0 +1,164 @@
+<div class="row">
+    <div class="col-12">
+        <div class="card search-bg">
+            <div class="col-2">
+
+            </div>
+            <div class="col-10">
+                <div class="row ">
+                    <input type="search" class="form-control" placeholder="Search..." [(ngModel)]="search">
+                    
+                    <label class="mr-sm-2" for="inlineFormCustomSelect">Pods</label>
+                    <select class="custom-select mr-sm-2" id="inlineFormCustomSelect" [(ngModel)]="search">
+                        <option selected>Pods</option>
+                        <option value="J-POD">J-POD</option>
+                        <option value="K-POD">K-POD</option>
+                        <option value="L-POD">L-POD</option>
+                    </select>
+                    <form>
+                        <div class="form-group m-b-30">
+                            <label class="mr-sm-2" for="inlineFormCustomSelect2">Populations</label>
+                            <select class="custom-select mr-sm-2" id="inlineFormCustomSelect2" [(ngModel)]="search">
+                                <option selected>Populations</option>
+                                <option value="Southern Resident">Southern Resident</option>
+                                <option value="Patagonian">Patagonian</option>
+                                <option value="3">L-POD</option>
+                            </select>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- <form [formGroup]="myForm">
+                        <ng-multiselect-dropdown
+                            name="city"
+                            [placeholder]="'Select City'"
+                            [data]="cities"
+                            formControlName="city"
+                            [disabled]="disabled"
+                            [settings]="dropdownSettings"
+                            (onSelect)="onItemSelect($event)">
+                        </ng-multiselect-dropdown>
+                   </form> -->
+
+
+
+
+
+
+
+
+
+
+<!-- 
+<div class="row">
+    <div class="col-12">
+        <div class="card search-bg">
+            <div class="row ">
+                <div class="col-md-8 m-auto">
+                    <div class="card-body">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <div role="separator" class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Separated link</a>
+                                </div>
+                            </div>
+                            <input type="text" class="form-control" aria-label="Text input with dropdown button" placeholder="Search..." [(ngModel)]="search">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button">Button</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="row">
+                <div class="col-md-10 m-auto text-center">
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10"  autocomplete="off"><i class="mdi mdi-all-inclusive"></i> All</button>
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mdi mdi-star"></i> Popular</button>
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mdi mdi-gender-male"></i> Male</button>
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mdi mdi-gender-female"></i> Female</button>
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mdi mdi-pulse"></i> Passed</button>
+                    <button type="button" class="btn btn-outline-secondary btn-rounded m-10" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mdi mdi-restart"></i> Clear</button>
+                </div>
+            </div>
+            
+
+
+
+
+            <div role="separator" class="dropdown-divider"></div>
+            <div class="row ">
+                <div class="col-12 text-center">
+                    <button type="button" class="btn btn-outline-secondary no-border-btn" (click)="isCollapsed = !isCollapsed"
+                    [attr.aria-expanded]="!isCollapsed" aria-controls="collapseExample">
+                    Advanced search <i class="mdi mdi-chevron-down"></i>
+                    </button>
+                    <div id="collapseExample" [ngbCollapse]="isCollapsed">
+                        <div class="card">
+                            <div class="card-body m-r-20 m-l-20">
+                                <div class="row ">
+                                    <div class="col-12">
+                                        <h4>Physical characteristics</h4>
+                                        <div class="row ">
+                                            <div class="col-4">
+                                                <h5>Saddle Patch</h5>
+                                            </div>
+                                            <div class="col-4">
+                                                <h5>Dorsal Fin</h5>
+                                            </div>
+                                            <div class="col-4">
+                                                <h5>Eye Patch</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+
+<div class="row">
+    <div class="col-12">
+      <div class="OC-head-featured pods-padding" id="title">Individuals</div>
+        <div class="row m-b-20">
+            <div class="col-2 population-grid-padding" *ngFor="let individuals of individualsAlive | filter:search" >
+            <div *ngIf="individuals">
+                <a [routerLink]="['/populations/individual',individuals.idPopulation,individuals.idPod, individuals.id]">
+                <div class="card card-hover">
+                    <img class="population-grid-individuals" src="{{ individuals.leftSide }}">
+                </div>
+                <div class="individual-grid-title">{{ individuals.id }}</div>
+                <div class="individual-grid-title">{{ individuals.name }}</div>
+                </a>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

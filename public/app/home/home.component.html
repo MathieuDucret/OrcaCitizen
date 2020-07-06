@@ -1,0 +1,32 @@
+<div class="row">
+        <div class="col-12">
+                <div class="card home-bg" >          
+                        <img class="card-img img-fluid" src="assets\images\individuals\OC-bg3.jpg"  alt="Card image">
+                        <div class="card-img-overlay">
+                                <div class="home-title">ORCA CITIZEN</div>
+                                <div class="home-subtitle">Global Public Database of Wild Orcas</div>
+                        </div>
+                </div>
+        </div>
+        <div class="row OC-featured  d-none d-sm-block d-sm-none">
+                <div class="col-12 d-flex">
+                        <div class="OC-head-featured mr-auto">Featured Populations</div>
+                        <a class="OC-head-featured" routerLink="../populations" >See all</a>
+                </div>
+                <div class="col-12">
+                        <div class="row">
+                                <div class="col" *ngFor="let featured of homelist">
+                                        <a [routerLink]="['/populations/population', featured.id]">
+                                                <div class="card card-hover">
+                                                        <img class="OC-img-featured-pop" src="{{ featured.image }}">
+                                                        <div class="card-body">
+                                                            <div class="OC-title-featured">{{ featured.title }}</div>
+                                                            <div class="OC-subtitle-featured">{{ featured.subtitle }}</div>
+                                                        </div>
+                                                </div>
+                                        </a>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</div> 

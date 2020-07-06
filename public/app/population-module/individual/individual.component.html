@@ -1,0 +1,113 @@
+<div class="row">
+    <div class="col-12">
+        <div *ngIf="individual">
+            <div class="row">
+                <div class="col-4">
+                    <div class="card margin-cards">
+                        <img class="card-img OC-img-featured-pop" src="{{ individual.leftSide }}" >
+                    </div>
+                    <div class="OC-head-featured text-center">
+                      Left side <i class="mdi mdi-copyright" [ngbTooltip]="tipContent" placement="bottom"></i>
+                      <ng-template #tipContent>{{ individual.leftcredits }}</ng-template>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="individual-main-title individual-main-padding">{{ individual.id }}</div>
+                    <div class="individual-main-title">{{ individual.name }}</div>
+                    <div class="row">
+                      <table style="width:100%" class="individual-tab-row">
+                        <tr>
+                          <th class="p-b-15">Associated IDs</th>
+                          <td class="p-b-15">{{ individual.correlatedIds }} </td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Birth date</th>
+                          <td class="p-b-15">{{ individual.birthDate }} </td>
+                        </tr>
+                        <!-- <tr *ngIf="individual.deathDate !== '?' || individual.deathDate !== '...'">
+                          <th class="p-b-15">Death date</th>
+                          <td class="p-b-15">{{ individual.deathDate }} </td>
+                        </tr> -->
+                        <tr>
+                          <th class="p-b-15">Sex</th>
+                          <td class="p-b-15">{{ individual.sex }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Ecotype</th>
+                          <td class="p-b-15">{{ individual.ecotype }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Population</th>
+                          <td class="p-b-15">{{ individual.population }}</td>
+                        </tr>
+                        <tr>
+                          <th class="p-b-15">Location</th>
+                          <td class="p-b-15">{{ individual.location }}</td>
+                        </tr>
+                      </table>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card margin-cards">
+                        <img class="card-img OC-img-featured-pop" src="{{ individual.rightSide }}" >
+                    </div>
+                    <div class="OC-head-featured text-center">
+                      Right side <i class="mdi mdi-copyright" [ngbTooltip]="tipContent" placement="bottom"></i>
+                      <ng-template #tipContent>{{ individual.rightcredits }}</ng-template>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+              <!--  ************  Matriline cards  ************  -->
+                <div class="col-6">
+                    <div class="OC-head-featured pods-padding">Matriline</div>
+                    <div *ngFor="let matriline of matrilines" class="pods-padding">
+                      <a [routerLink]="['/populations/individual',matriline.idPopulation,matriline.idPod, matriline.id]">
+                        <div class="card card-hover bg-matriline">
+                          <div class="card-body text-center">
+                            <div class="row d-flex align-items-center">
+                                <div class="col">
+                                  <img class="img-matriline" src="{{ matriline.leftSide }}">
+                                </div>
+                                <div class="col">
+                                  {{ matriline.id }}
+                                </div>
+                                <div class="col">
+                                  {{ matriline.name }}
+                                </div>
+                                <div class="col">
+                                  {{ matriline.sex }}
+                                </div>
+                                <div class="col">
+                                  {{ matriline.matrilineRole }}
+                                </div>
+                          </div>
+                        </div>
+                      </div>
+                      </a>
+                    </div>
+                </div>
+                <!--  ************  --  ************  -->
+                <div class="col-6">
+                    <nav ngbNav #navz="ngbNav" class="nav-justified nav-pills margin-cards">
+                      <ng-container ngbNavItem>
+                        <a ngbNavLink class="nav-population nav-pills-custom">About</a>
+                        <ng-template ngbNavContent>
+                          <div *ngIf="individual">
+                            {{ individual.about }}
+                          </div>
+                        </ng-template>
+                      </ng-container>
+                        <ng-container ngbNavItem>
+                          <a ngbNavLink class="nav-population nav-pills-custom">Media</a>
+                          <ng-template ngbNavContent>
+                            
+                            </ng-template>
+                        </ng-container>
+                      </nav>
+                      <div [ngbNavOutlet]="navz" class="mt-2"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>

@@ -1,0 +1,9 @@
+<div class="col-12">
+    <div class="row">
+        <div class="card-columns">
+            <div class="p-10" *ngFor="let organization of organizations">
+                <org-card [organization]="organization"></org-card>
+            </div>
+        </div>
+    </div>
+</div>

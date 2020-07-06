@@ -1,0 +1,24 @@
+/*******************
+ Breadcrumb and page title
+*******************/
+
+.page-breadcrumb {
+    padding: 20px 20px 0 20px;  
+    .page-title{
+        margin-bottom: 0px;
+    }
+    .breadcrumb {
+        padding: 0px 0px 0px 20px;
+        margin: 0px;
+        background: transparent;
+        font-size: 15px;
+        font-weight: 700;
+        .breadcrumb-item+.breadcrumb-item::before {
+            content: "/";
+            font-family: 'Source Sans Pro', sans-serif;
+            color: #223234;
+            font-size: 15px;
+            
+        }
+    }
+}
