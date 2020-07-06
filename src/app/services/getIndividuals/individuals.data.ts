@@ -6,6 +6,7 @@ export const individuals: Individuals[] = [
 
 {
     id: "J-1",
+    correlatedIds:"",
     name: "Ruffles",
     sex: "Male",
     birthDate: "1951",
@@ -23,6 +24,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-2",
+    correlatedIds:"",
     name: "Granny",
     sex: "Female",
     birthDate: "1911",
@@ -40,6 +42,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-3",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1953",
@@ -57,6 +60,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-4",
+    correlatedIds:"",
     name: "Mama",
     sex: "Female",
     birthDate: "1957",
@@ -74,6 +78,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-5",
+    correlatedIds:"",
     name: "Saratoga",
     sex: "Female",
     birthDate: "1938",
@@ -91,6 +96,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-6",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1956",
@@ -108,6 +114,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-7",
+    correlatedIds:"",
     name: "Sucia",
     sex: "Female",
     birthDate: "1939",
@@ -125,6 +132,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-8",
+    correlatedIds:"",
     name: "Speiden",
     sex: "Female",
     birthDate: "1933",
@@ -142,6 +150,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-9",
+    correlatedIds:"",
     name: "Neah",
     sex: "Female",
     birthDate: "1917",
@@ -159,6 +168,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-10",
+    correlatedIds:"",
     name: "Tahoma",
     sex: "Female",
     birthDate: "1962",
@@ -176,6 +186,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-11",
+    correlatedIds:"",
     name: "Blossom",
     sex: "Female",
     birthDate: "1972",
@@ -193,6 +204,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-12",
+    correlatedIds:"",
     name: "Sissy",
     sex: "Female",
     birthDate: "1935",
@@ -210,6 +222,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-13",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1971",
@@ -227,6 +240,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-14",
+    correlatedIds:"",
     name: "Samish",
     sex: "Female",
     birthDate: "1974",
@@ -244,6 +258,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-15",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1976",
@@ -261,6 +276,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-16",
+    correlatedIds:"",
     name: "Slick",
     sex: "Female",
     birthDate: "1972",
@@ -278,6 +294,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-17",
+    correlatedIds:"",
     name: "Princess Angeline",
     sex: "Female",
     birthDate: "1977",
@@ -295,6 +312,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-18",
+    correlatedIds:"",
     name: "Everett",
     sex: "Male",
     birthDate: "1977",
@@ -312,6 +330,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-19",
+    correlatedIds:"",
     name: "Shachi",
     sex: "Female",
     birthDate: "1979",
@@ -329,6 +348,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-20",
+    correlatedIds:"",
     name: "Ewok",
     sex: "Female",
     birthDate: "1981",
@@ -346,6 +366,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-21",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1982",
@@ -363,6 +384,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-22",
+    correlatedIds:"",
     name: "Oreo",
     sex: "Female",
     birthDate: "1985",
@@ -380,6 +402,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-23",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1987",
@@ -397,6 +420,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-24",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1972",
@@ -414,6 +438,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-25",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1988",
@@ -431,6 +456,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-26",
+    correlatedIds:"",
     name: "Mike",
     sex: "Male",
     birthDate: "1991",
@@ -448,6 +474,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-27",
+    correlatedIds:"",
     name: "Blackberry",
     sex: "Male",
     birthDate: "1991",
@@ -465,6 +492,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-28",
+    correlatedIds:"",
     name: "Polaris",
     sex: "Female",
     birthDate: "1993",
@@ -482,6 +510,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-29",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1993",
@@ -499,6 +528,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-30",
+    correlatedIds:"",
     name: "Riptide",
     sex: "Male",
     birthDate: "1995",
@@ -516,6 +546,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-31",
+    correlatedIds:"",
     name: "Tsuchi",
     sex: "Female",
     birthDate: "1995",
@@ -533,6 +564,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-32",
+    correlatedIds:"",
     name: "Rhapsody",
     sex: "Female",
     birthDate: "1996",
@@ -550,6 +582,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-33",
+    correlatedIds:"",
     name: "Keet",
     sex: "Male",
     birthDate: "1996",
@@ -567,6 +600,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-34",
+    correlatedIds:"",
     name: "Doublestuf",
     sex: "Male",
     birthDate: "1998",
@@ -584,6 +618,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-35",
+    correlatedIds:"",
     name: "Tahlequah",
     sex: "Female",
     birthDate: "1998",
@@ -601,6 +636,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-36",
+    correlatedIds:"",
     name: "Alki",
     sex: "Female",
     birthDate: "1999",
@@ -618,6 +654,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-37",
+    correlatedIds:"",
     name: "Hy'Shqa",
     sex: "Female",
     birthDate: "2001",
@@ -635,6 +672,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-38",
+    correlatedIds:"",
     name: "Cookie",
     sex: "Male",
     birthDate: "2003",
@@ -652,6 +690,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-39",
+    correlatedIds:"",
     name: "Mako",
     sex: "Male",
     birthDate: "2003",
@@ -669,6 +708,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-40",
+    correlatedIds:"",
     name: "Suttles",
     sex: "Female",
     birthDate: "2004",
@@ -686,6 +726,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-41",
+    correlatedIds:"",
     name: "Eclipse",
     sex: "Female",
     birthDate: "2005",
@@ -703,6 +744,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-42",
+    correlatedIds:"",
     name: "Echo",
     sex: "Female",
     birthDate: "2007",
@@ -720,6 +762,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-43",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2007",
@@ -737,6 +780,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-44",
+    correlatedIds:"",
     name: "Moby",
     sex: "Male",
     birthDate: "2009",
@@ -754,6 +798,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-45",
+    correlatedIds:"",
     name: "Se-Yi'-Chn",
     sex: "Male",
     birthDate: "2009",
@@ -771,6 +816,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-46",
+    correlatedIds:"",
     name: "Star",
     sex: "Female",
     birthDate: "2009",
@@ -788,6 +834,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-47",
+    correlatedIds:"",
     name: "Notch",
     sex: "Male",
     birthDate: "2010",
@@ -805,6 +852,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-48",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2011",
@@ -822,6 +870,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-49",
+    correlatedIds:"",
     name: "T'ilem I'nges",
     sex: "Male",
     birthDate: "2012",
@@ -839,6 +888,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-50",
+    correlatedIds:"",
     name: "Scarlet",
     sex: "Female",
     birthDate: "2014",
@@ -856,6 +906,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-51",
+    correlatedIds:"",
     name: "Nova",
     sex: "Male",
     birthDate: "2015",
@@ -873,6 +924,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-52",
+    correlatedIds:"",
     name: "Sonic",
     sex: "Male",
     birthDate: "2015",
@@ -890,6 +942,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-53",
+    correlatedIds:"",
     name: "Kiki",
     sex: "Female",
     birthDate: "2015",
@@ -907,6 +960,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-54",
+    correlatedIds:"",
     name: "Dipper",
     sex: "Male",
     birthDate: "2015",
@@ -924,6 +978,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-55",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2016",
@@ -941,6 +996,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "J-56",
+    correlatedIds:"",
     name: "Tofino",
     sex: "Female",
     birthDate: "2019",
@@ -958,6 +1014,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-1",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1955",
@@ -975,6 +1032,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-2",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1953",
@@ -992,6 +1050,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-3",
+    correlatedIds:"",
     name: "Sounder",
     sex: "Female",
     birthDate: "1957",
@@ -1009,6 +1068,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-4",
+    correlatedIds:"",
     name: "Morgan",
     sex: "Female",
     birthDate: "1933",
@@ -1026,6 +1086,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-5",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1953",
@@ -1043,6 +1104,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-6",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -1060,6 +1122,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-7",
+    correlatedIds:"",
     name: "Lummi",
     sex: "Female",
     birthDate: "1910",
@@ -1077,6 +1140,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-8",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1930",
@@ -1094,6 +1158,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-9",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -1111,6 +1176,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-10",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -1128,6 +1194,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-11",
+    correlatedIds:"",
     name: "Georgia",
     sex: "Female",
     birthDate: "1933",
@@ -1145,6 +1212,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-12",
+    correlatedIds:"",
     name: "Sequim",
     sex: "Female",
     birthDate: "1972",
@@ -1162,6 +1230,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-13",
+    correlatedIds:"",
     name: "Skagit",
     sex: "Female",
     birthDate: "1972",
@@ -1179,6 +1248,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-14",
+    correlatedIds:"",
     name: "Lea",
     sex: "Female",
     birthDate: "1977",
@@ -1196,6 +1266,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-15",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1971",
@@ -1213,6 +1284,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-16",
+    correlatedIds:"",
     name: "Opus",
     sex: "Female",
     birthDate: "1985",
@@ -1230,6 +1302,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-17",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1966",
@@ -1247,6 +1320,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-18",
+    correlatedIds:"",
     name: "Kiska",
     sex: "Female",
     birthDate: "1948",
@@ -1264,6 +1338,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-19",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -1281,6 +1356,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-20",
+    correlatedIds:"",
     name: "Spock",
     sex: "Female",
     birthDate: "1986",
@@ -1298,6 +1374,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-21",
+    correlatedIds:"",
     name: "Cappuccino",
     sex: "Male",
     birthDate: "1986",
@@ -1315,6 +1392,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-22",
+    correlatedIds:"",
     name: "Sekiu",
     sex: "Female",
     birthDate: "1987",
@@ -1332,6 +1410,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-23",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1988",
@@ -1349,6 +1428,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-24",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1990",
@@ -1366,6 +1446,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-25",
+    correlatedIds:"",
     name: "Scoter",
     sex: "Male",
     birthDate: "1991",
@@ -1383,6 +1464,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-26",
+    correlatedIds:"",
     name: "Lobo",
     sex: "Male",
     birthDate: "1993",
@@ -1400,6 +1482,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-27",
+    correlatedIds:"",
     name: "Deadhead",
     sex: "Female",
     birthDate: "1994",
@@ -1417,6 +1500,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-28",
+    correlatedIds:"",
     name: "Raven",
     sex: "Female",
     birthDate: "1994",
@@ -1434,6 +1518,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-29",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1996",
@@ -1451,6 +1536,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-30",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1929",
@@ -1468,6 +1554,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-31",
+    correlatedIds:"",
     name: "Tatoosh",
     sex: "Male",
     birthDate: "1999",
@@ -1485,6 +1572,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-32",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2000",
@@ -1502,6 +1590,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-33",
+    correlatedIds:"",
     name: "Tika",
     sex: "Male",
     birthDate: "2001",
@@ -1519,6 +1608,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-34",
+    correlatedIds:"",
     name: "Cali",
     sex: "Male",
     birthDate: "2001",
@@ -1536,6 +1626,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-35",
+    correlatedIds:"",
     name: "Sonata",
     sex: "Male",
     birthDate: "2002",
@@ -1553,6 +1644,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-36",
+    correlatedIds:"",
     name: "Yoda",
     sex: "Female",
     birthDate: "2003",
@@ -1570,6 +1662,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-37",
+    correlatedIds:"",
     name: "Rainshadow",
     sex: "Male",
     birthDate: "2003",
@@ -1587,6 +1680,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-38",
+    correlatedIds:"",
     name: "Comet",
     sex: "Male",
     birthDate: "2004",
@@ -1604,6 +1698,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-39",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2006",
@@ -1621,6 +1716,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-40",
+    correlatedIds:"",
     name: "Raggedy",
     sex: "Female",
     birthDate: "1963",
@@ -1638,6 +1734,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-41",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2006",
@@ -1655,6 +1752,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-42",
+    correlatedIds:"",
     name: "Kelp",
     sex: "Male",
     birthDate: "2008",
@@ -1672,6 +1770,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-43",
+    correlatedIds:"",
     name: "Saturna",
     sex: "Female",
     birthDate: "2010",
@@ -1689,6 +1788,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-44",
+    correlatedIds:"",
     name: "Ripple",
     sex: "Male",
     birthDate: "2011",
@@ -1706,6 +1806,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-45",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -1723,6 +1824,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "K-46",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1974",
@@ -1740,6 +1842,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-1",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1959",
@@ -1757,6 +1860,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-2",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1960",
@@ -1774,6 +1878,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-3",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1948",
@@ -1791,6 +1896,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-4",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1973",
@@ -1808,6 +1914,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-5",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1964",
@@ -1825,6 +1932,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-6",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1962",
@@ -1842,6 +1950,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-7",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1961",
@@ -1859,6 +1968,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-8",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1958",
@@ -1876,6 +1986,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-9",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1931",
@@ -1893,6 +2004,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-10",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1959",
@@ -1910,6 +2022,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-11",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1957",
@@ -1927,6 +2040,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-12",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1933",
@@ -1944,6 +2058,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-13",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1952",
@@ -1961,6 +2076,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-14",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1972",
@@ -1978,6 +2094,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-15",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1930",
@@ -1995,6 +2112,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-16",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1949",
@@ -2012,6 +2130,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-17",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2029,6 +2148,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-18",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2046,6 +2166,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-19",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2063,6 +2184,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-20",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1955",
@@ -2080,6 +2202,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-21",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1950",
@@ -2097,6 +2220,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-22",
+    correlatedIds:"",
     name: "Spirit",
     sex: "Female",
     birthDate: "1971",
@@ -2114,6 +2238,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-23",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1952",
@@ -2131,6 +2256,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-24",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2148,6 +2274,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-25",
+    correlatedIds:"",
     name: "Ocean Sun",
     sex: "Female",
     birthDate: "1928",
@@ -2165,6 +2292,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-26",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1956",
@@ -2182,6 +2310,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-27",
+    correlatedIds:"",
     name: "Ophelia",
     sex: "Female",
     birthDate: "1965",
@@ -2199,6 +2328,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-28",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1949",
@@ -2216,6 +2346,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-29",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2233,6 +2364,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-30",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2250,6 +2382,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-31",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2267,6 +2400,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-32",
+    correlatedIds:"",
     name: "Olympia",
     sex: "Female",
     birthDate: "1955",
@@ -2284,6 +2418,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-33",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1963",
@@ -2301,6 +2436,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-34",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2318,6 +2454,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-35",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1942",
@@ -2335,6 +2472,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-36",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1975",
@@ -2352,6 +2490,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-37",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1933",
@@ -2369,6 +2508,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-38",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1965",
@@ -2386,6 +2526,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-39",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1975",
@@ -2403,6 +2544,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-40",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2420,6 +2562,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-41",
+    correlatedIds:"",
     name: "Mega",
     sex: "Male",
     birthDate: "1977",
@@ -2437,6 +2580,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-42",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1973",
@@ -2454,6 +2598,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-43",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1972",
@@ -2471,6 +2616,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-44",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1974",
@@ -2488,6 +2634,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-45",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1938",
@@ -2505,6 +2652,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-46",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2522,6 +2670,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-47",
+    correlatedIds:"",
     name: "Marina",
     sex: "Female",
     birthDate: "1974",
@@ -2539,6 +2688,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-48",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1977",
@@ -2556,6 +2706,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-49",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1979",
@@ -2573,6 +2724,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-50",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1973",
@@ -2590,6 +2742,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-51",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1973",
@@ -2607,6 +2760,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-52",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1980",
@@ -2624,6 +2778,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-53",
+    correlatedIds:"",
     name: "Lulu",
     sex: "Female",
     birthDate: "1977",
@@ -2641,6 +2796,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-54",
+    correlatedIds:"",
     name: "Ino",
     sex: "Female",
     birthDate: "1977",
@@ -2658,6 +2814,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-55",
+    correlatedIds:"",
     name: "Nugget",
     sex: "Female",
     birthDate: "1977",
@@ -2675,6 +2832,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-56",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1978",
@@ -2692,6 +2850,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-57",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1977",
@@ -2709,6 +2868,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-58",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1980",
@@ -2726,6 +2886,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-59",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1979",
@@ -2743,6 +2904,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-60",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1972",
@@ -2760,6 +2922,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-61",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1973",
@@ -2777,6 +2940,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-62",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1980",
@@ -2794,6 +2958,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-63",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1984",
@@ -2811,6 +2976,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-64",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1985",
@@ -2828,6 +2994,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-65",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1984",
@@ -2845,6 +3012,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-66",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1924",
@@ -2862,6 +3030,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-67",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1985",
@@ -2879,6 +3048,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-68",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1985",
@@ -2896,6 +3066,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-69",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1984",
@@ -2913,6 +3084,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-70",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -2930,6 +3102,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-71",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1986",
@@ -2947,6 +3120,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-72",
+    correlatedIds:"",
     name: "Racer",
     sex: "Female",
     birthDate: "1986",
@@ -2964,6 +3138,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-73",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1986",
@@ -2981,6 +3156,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-74",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1986",
@@ -2998,6 +3174,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-75",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1986",
@@ -3015,6 +3192,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-76",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1987",
@@ -3032,6 +3210,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-77",
+    correlatedIds:"",
     name: "Matia",
     sex: "Female",
     birthDate: "1987",
@@ -3049,6 +3228,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-78",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1989",
@@ -3066,6 +3246,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-79",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1989",
@@ -3083,6 +3264,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-80",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1990",
@@ -3100,6 +3282,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-81",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1990",
@@ -3117,6 +3300,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-82",
+    correlatedIds:"",
     name: "Kasatka",
     sex: "Female",
     birthDate: "1990",
@@ -3134,6 +3318,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-83",
+    correlatedIds:"",
     name: "Moonlight",
     sex: "Female",
     birthDate: "1990",
@@ -3151,6 +3336,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-84",
+    correlatedIds:"",
     name: "Nyssa",
     sex: "Male",
     birthDate: "1990",
@@ -3168,6 +3354,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-85",
+    correlatedIds:"",
     name: "Mystery",
     sex: "Male",
     birthDate: "1991",
@@ -3185,6 +3372,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-86",
+    correlatedIds:"",
     name: "Surprise!",
     sex: "Female",
     birthDate: "1991",
@@ -3202,6 +3390,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-87",
+    correlatedIds:"",
     name: "Onyx",
     sex: "Male",
     birthDate: "1992",
@@ -3219,6 +3408,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-88",
+    correlatedIds:"",
     name: "Wave Walker",
     sex: "Male",
     birthDate: "1993",
@@ -3236,6 +3426,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-89",
+    correlatedIds:"",
     name: " Solstice",
     sex: "Male",
     birthDate: "1993",
@@ -3253,6 +3444,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-90",
+    correlatedIds:"",
     name: "Ballena",
     sex: "Female",
     birthDate: "1993",
@@ -3270,6 +3462,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-91",
+    correlatedIds:"",
     name: "Muncher",
     sex: "Female",
     birthDate: "1995",
@@ -3287,6 +3480,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-92",
+    correlatedIds:"",
     name: "Crewser",
     sex: "Male",
     birthDate: "1995",
@@ -3304,6 +3498,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-93",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "1995",
@@ -3321,6 +3516,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-94",
+    correlatedIds:"",
     name: "Calypso",
     sex: "Female",
     birthDate: "1995",
@@ -3338,6 +3534,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-95",
+    correlatedIds:"",
     name: "Nigel",
     sex: "Male",
     birthDate: "1996",
@@ -3355,6 +3552,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-96",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "1996",
@@ -3372,6 +3570,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-97",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "1999",
@@ -3389,6 +3588,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-98",
+    correlatedIds:"",
     name: "Luna",
     sex: "Male",
     birthDate: "1999",
@@ -3406,6 +3606,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-99",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2000",
@@ -3423,6 +3624,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-100",
+    correlatedIds:"",
     name: "Indigo",
     sex: "Male",
     birthDate: "2001",
@@ -3440,6 +3642,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-101",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "2002",
@@ -3457,6 +3660,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-102",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2002",
@@ -3474,6 +3678,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-103",
+    correlatedIds:"",
     name: "Lapis",
     sex: "Female",
     birthDate: "2003",
@@ -3491,6 +3696,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-104",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "2004",
@@ -3508,6 +3714,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-105",
+    correlatedIds:"",
     name: "Fluke",
     sex: "Male",
     birthDate: "2004",
@@ -3525,6 +3732,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-106",
+    correlatedIds:"",
     name: "Pooka",
     sex: "Male",
     birthDate: "2005",
@@ -3542,6 +3750,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-107",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2005",
@@ -3559,6 +3768,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-108",
+    correlatedIds:"",
     name: "Coho",
     sex: "Male",
     birthDate: "2006",
@@ -3576,6 +3786,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-109",
+    correlatedIds:"",
     name: "Takoda",
     sex: "Male",
     birthDate: "2007",
@@ -3593,6 +3804,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-110",
+    correlatedIds:"",
     name: "Midnight",
     sex: "Male",
     birthDate: "2007",
@@ -3610,6 +3822,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-111",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "2008",
@@ -3627,6 +3840,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-112",
+    correlatedIds:"",
     name: "Sooke",
     sex: "Female",
     birthDate: "2009",
@@ -3644,6 +3858,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-113",
+    correlatedIds:"",
     name: "Cousteau",
     sex: "Female",
     birthDate: "2009",
@@ -3661,6 +3876,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-114",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2010",
@@ -3678,6 +3894,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-115",
+    correlatedIds:"",
     name: "Mystic",
     sex: "Male",
     birthDate: "2010",
@@ -3695,6 +3912,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-116",
+    correlatedIds:"",
     name: "Finn",
     sex: "Male",
     birthDate: "2010",
@@ -3712,6 +3930,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-117",
+    correlatedIds:"",
     name: "Keta",
     sex: "Male",
     birthDate: "2010",
@@ -3729,6 +3948,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-118",
+    correlatedIds:"",
     name: "Jade",
     sex: "Female",
     birthDate: "2011",
@@ -3746,6 +3966,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-119",
+    correlatedIds:"",
     name: "Joy",
     sex: "Female",
     birthDate: "2012",
@@ -3763,6 +3984,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-120",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2014",
@@ -3780,6 +4002,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-121",
+    correlatedIds:"",
     name: "Windsong",
     sex: "Male",
     birthDate: "2015",
@@ -3797,6 +4020,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-122",
+    correlatedIds:"",
     name: "Magic",
     sex: "Male",
     birthDate: "2015",
@@ -3814,6 +4038,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-123",
+    correlatedIds:"",
     name: "Lazuli",
     sex: "Male",
     birthDate: "2015",
@@ -3831,6 +4056,7 @@ export const individuals: Individuals[] = [
 ,idMatriline: "",matrilineRole: ""},
 {
     id: "L-124",
+    correlatedIds:"",
     name: "Whistle",
     sex: "Male",
     birthDate: "2019",
@@ -3852,6 +4078,7 @@ export const individuals: Individuals[] = [
 
 {
     id: "A2-001",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -3873,6 +4100,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A2-002",
+    correlatedIds:"",
     name: "Pingu",
     sex: "Male",
     birthDate: "1997",
@@ -3894,6 +4122,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-003",
+    correlatedIds:"",
     name: "Lamari",
     sex: "Female",
     birthDate: "Unknown",
@@ -3915,6 +4144,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A2-005",
+    correlatedIds:"",
     name: "Morales",
     sex: "Male",
     birthDate: "~1990",
@@ -3936,6 +4166,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A2-006",
+    correlatedIds:"",
     name: "Astilla",
     sex: "Female",
     birthDate: "Unknown",
@@ -3957,6 +4188,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-007",
+    correlatedIds:"",
     name: "Omega",
     sex: "Female",
     birthDate: "Unknown",
@@ -3978,6 +4210,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-008",
+    correlatedIds:"",
     name: "Anna",
     sex: "Female",
     birthDate: "2000",
@@ -3999,6 +4232,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-009",
+    correlatedIds:"",
     name: "Muesca",
     sex: "Female",
     birthDate: "Unknown",
@@ -4020,6 +4254,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-010",
+    correlatedIds:"",
     name: "Camacho",
     sex: "Male",
     birthDate: "~1978",
@@ -4041,6 +4276,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-011",
+    correlatedIds:"",
     name: "Toñi",
     sex: "Female",
     birthDate: "Unknown",
@@ -4062,6 +4298,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-012",
+    correlatedIds:"",
     name: "Gnomo",
     sex: "Female",
     birthDate: "1997",
@@ -4083,6 +4320,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A2-016",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "2004",
@@ -4104,6 +4342,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-017",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2003",
@@ -4125,6 +4364,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-018",
+    correlatedIds:"",
     name: "Corsica",
     sex: "Female",
     birthDate: "2002",
@@ -4146,6 +4386,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-019",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2007",
@@ -4167,6 +4408,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-020",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4188,6 +4430,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-021",
+    correlatedIds:"",
     name: "Vega",
     sex: "Female",
     birthDate: "Unknown",
@@ -4209,6 +4452,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-022",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4230,6 +4474,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-023",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4251,6 +4496,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-024",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4272,6 +4518,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-025",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4293,6 +4540,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "D-026",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4314,6 +4562,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-029",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -4335,6 +4584,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-031",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4356,6 +4606,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-032",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4377,6 +4628,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-033",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "2005",
@@ -4398,6 +4650,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-034",
+    correlatedIds:"",
     name: "Macarra",
     sex: "Female",
     birthDate: "Unknown",
@@ -4419,6 +4672,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-035",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2006",
@@ -4440,6 +4694,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-036",
+    correlatedIds:"",
     name: "Bartholo",
     sex: "Male",
     birthDate: "Unknown",
@@ -4461,6 +4716,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-037",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4482,6 +4738,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-038",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4503,6 +4760,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-039",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -4524,6 +4782,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-040",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4545,6 +4804,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-041",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2006",
@@ -4566,6 +4826,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-044",
+    correlatedIds:"",
     name: "Iniesta",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4587,6 +4848,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-045",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2011",
@@ -4608,6 +4870,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-046",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2011",
@@ -4629,6 +4892,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-047",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2011",
@@ -4650,6 +4914,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "B-048",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "~2011",
@@ -4671,6 +4936,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A2-049",
+    correlatedIds:"",
     name: "Mario",
     sex: "Male",
     birthDate: "2012",
@@ -4692,6 +4958,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-050",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -4713,6 +4980,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-051",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4734,6 +5002,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-052",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4755,6 +5024,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-053",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2013",
@@ -4776,6 +5046,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-054",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -4797,6 +5068,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "C-055",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4818,6 +5090,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-056",
+    correlatedIds:"",
     name: "Sonrisa",
     sex: "Unkown",
     birthDate: "~2008-2014",
@@ -4839,6 +5112,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-057",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2015",
@@ -4860,6 +5134,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-058",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2015",
@@ -4881,6 +5156,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-059",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2014",
@@ -4902,6 +5178,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "A1-???",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "2017",
@@ -4923,6 +5200,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "004",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4944,6 +5222,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "013",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4965,6 +5244,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "014",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -4986,6 +5266,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "015",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5007,6 +5288,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "027",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5028,6 +5310,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "028",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5049,6 +5332,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "030",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5073,6 +5357,7 @@ export const individuals: Individuals[] = [
 
 {
     id: "W-01",
+    correlatedIds:"",
     name: "John Coe",
     sex: "Male",
     birthDate: "Unknown",
@@ -5088,12 +5373,13 @@ export const individuals: Individuals[] = [
     idMatriline: "",
     matrilineRole: "",
     leftSide: "assets/images/individuals/nodata.jpg",
-    leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
+    leftcredits:"Photo credit © -", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-01-rightside.jpg"
 },
 {
     id: "W-02",
+    correlatedIds:"",
     name: "Floppy Fin",
     sex: "Male",
     birthDate: "Unknown",
@@ -5108,13 +5394,14 @@ export const individuals: Individuals[] = [
     idPod: "WCC",
     idMatriline: "",
     matrilineRole: "",
-    leftSide: "assets/images/individuals/nodata.jpg",
+    leftSide: "assets/images/individuals/Scottish/W-02-leftside.jpg",
     leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-02-rightside.jpg"
 },
 {
     id: "W-03",
+    correlatedIds:"",
     name: "Nicola",
     sex: "Female",
     birthDate: "Unknown",
@@ -5129,13 +5416,14 @@ export const individuals: Individuals[] = [
     idPod: "WCC",
     idMatriline: "",
     matrilineRole: "",
-    leftSide: "assets/images/individuals/nodata.jpg",
+    leftSide: "assets/images/individuals/Scottish/W-03-leftside.jpg",
     leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-03-rightside.jpg"
 },
 {
     id: "W-04",
+    correlatedIds:"",
     name: "Moon",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5151,12 +5439,13 @@ export const individuals: Individuals[] = [
     idMatriline: "",
     matrilineRole: "",
     leftSide: "assets/images/individuals/nodata.jpg",
-    leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
+    leftcredits:"Photo credit © -", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-04-rightside.jpg"
 },
 {
     id: "W-05",
+    correlatedIds:"",
     name: "Comet",
     sex: "Male",
     birthDate: "Unknown",
@@ -5171,13 +5460,14 @@ export const individuals: Individuals[] = [
     idPod: "WCC",
     idMatriline: "",
     matrilineRole: "",
-    leftSide: "assets/images/individuals/nodata.jpg",
+    leftSide: "assets/images/individuals/Scottish/W-05-leftside.jpg",
     leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-05-rightside.jpg"
 },
 {
     id: "W-06",
+    correlatedIds:"",
     name: "Lulu",
     sex: "Female",
     birthDate: "Unknown",
@@ -5193,12 +5483,13 @@ export const individuals: Individuals[] = [
     idMatriline: "",
     matrilineRole: "",
     leftSide: "assets/images/individuals/nodata.jpg",
-    leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
+    leftcredits:"Photo credit © -", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-06-rightside.jpg"
 },
 {
     id: "W-07",
+    correlatedIds:"",
     name: "Moneypenny",
     sex: "Female",
     birthDate: "Unknown",
@@ -5214,12 +5505,13 @@ export const individuals: Individuals[] = [
     idMatriline: "",
     matrilineRole: "",
     leftSide: "assets/images/individuals/nodata.jpg",
-    leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
+    leftcredits:"Photo credit © -", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-07-rightside.jpg"
 },
 {
     id: "W-08",
+    correlatedIds:"",
     name: "Aquarius",
     sex: "Male",
     birthDate: "Unknown",
@@ -5234,13 +5526,14 @@ export const individuals: Individuals[] = [
     idPod: "WCC",
     idMatriline: "",
     matrilineRole: "",
-    leftSide: "assets/images/individuals/nodata.jpg",
+    leftSide: "assets/images/individuals/Scottish/W-08-leftside.jpg",
     leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-08-rightside.jpg"
 },
 {
     id: "W-09",
+    correlatedIds:"",
     name: "Puffin",
     sex: "Female",
     birthDate: "Unknown",
@@ -5256,12 +5549,13 @@ export const individuals: Individuals[] = [
     idMatriline: "",
     matrilineRole: "",
     leftSide: "assets/images/individuals/nodata.jpg",
-    leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
+    leftcredits:"Photo credit © -", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-09-rightside.jpg"
 },
 {
     id: "W-10",
+    correlatedIds:"",
     name: "Occasus",
     sex: "Female",
     birthDate: "Unknown",
@@ -5276,16 +5570,17 @@ export const individuals: Individuals[] = [
     idPod: "WCC",
     idMatriline: "",
     matrilineRole: "",
-    leftSide: "assets/images/individuals/nodata.jpg",
+    leftSide: "assets/images/individuals/Scottish/W-10-leftside.jpg",
     leftcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
     rightcredits:"Photo credit © Hebridean Whale and Dolphin Trust", 
-    rightSide: "assets/images/individuals/nodata.jpg"
+    rightSide: "assets/images/individuals/Scottish/W-10-rightside.jpg",
 },
 
 // ********* Peninsula Valdes - PTN *********
 
 {
     id: "PTN-001",
+    correlatedIds:"",
     name: "Mel",
     sex: "Male",
     birthDate: "~1960",
@@ -5307,6 +5602,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-002",
+    correlatedIds:"",
     name: "Jazmín",
     sex: "Female",
     birthDate: "Unknown",
@@ -5328,6 +5624,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-003",
+    correlatedIds:"",
     name: "Lea",
     sex: "Female",
     birthDate: "Unknown",
@@ -5349,6 +5646,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-004",
+    correlatedIds:"",
     name: "Maga",
     sex: "Female",
     birthDate: "Unknown",
@@ -5370,6 +5668,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-005",
+    correlatedIds:"",
     name: "Ishtar",
     sex: "Female",
     birthDate: "Unknown",
@@ -5391,6 +5690,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-006",
+    correlatedIds:"",
     name: "Pao",
     sex: "Female",
     birthDate: "2005",
@@ -5412,6 +5712,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-007",
+    correlatedIds:"",
     name: "Mela",
     sex: "Unkown",
     birthDate: "2005",
@@ -5433,6 +5734,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-008",
+    correlatedIds:"",
     name: "Mica",
     sex: "Female",
     birthDate: "2004",
@@ -5454,6 +5756,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-009",
+    correlatedIds:"",
     name: "Valen",
     sex: "Female",
     birthDate: "1995",
@@ -5475,6 +5778,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-010",
+    correlatedIds:"",
     name: "Llen",
     sex: "Female",
     birthDate: "Unknown",
@@ -5496,6 +5800,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-011",
+    correlatedIds:"",
     name: "JC",
     sex: "Male",
     birthDate: "~1989",
@@ -5517,6 +5822,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-012",
+    correlatedIds:"",
     name: "Antu",
     sex: "Female",
     birthDate: "Unknown",
@@ -5538,6 +5844,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-013",
+    correlatedIds:"",
     name: "Tyson",
     sex: "Male",
     birthDate: "Unknown",
@@ -5559,6 +5866,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-014",
+    correlatedIds:"",
     name: "Sol",
     sex: "Female",
     birthDate: "2006",
@@ -5580,6 +5888,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-015",
+    correlatedIds:"",
     name: "Lola",
     sex: "Unkown",
     birthDate: "2006",
@@ -5601,6 +5910,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-016",
+    correlatedIds:"",
     name: "Issy",
     sex: "Unkown",
     birthDate: "2007",
@@ -5622,6 +5932,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-017",
+    correlatedIds:"",
     name: "Pash",
     sex: "Male",
     birthDate: "2008",
@@ -5643,6 +5954,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-018",
+    correlatedIds:"",
     name: "Shekei",
     sex: "Unkown",
     birthDate: "2008",
@@ -5664,6 +5976,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-019",
+    correlatedIds:"",
     name: "Jaluel",
     sex: "Female",
     birthDate: "~1998",
@@ -5685,6 +5998,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-020",
+    correlatedIds:"",
     name: "Golouen",
     sex: "Female",
     birthDate: "2011",
@@ -5706,6 +6020,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-021",
+    correlatedIds:"",
     name: "Sheuen",
     sex: "Unkown",
     birthDate: "2011",
@@ -5727,6 +6042,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-022",
+    correlatedIds:"",
     name: "Konke",
     sex: "Unkown",
     birthDate: "2010",
@@ -5748,6 +6064,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-023",
+    correlatedIds:"",
     name: "Karut",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5769,6 +6086,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-024",
+    correlatedIds:"",
     name: "Enid",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5790,6 +6108,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-025",
+    correlatedIds:"",
     name: "Emyr",
     sex: "Male",
     birthDate: "Unknown",
@@ -5811,6 +6130,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-026",
+    correlatedIds:"",
     name: "Shotel",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5832,6 +6152,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-027",
+    correlatedIds:"",
     name: "Aiken",
     sex: "Female",
     birthDate: "Unknown",
@@ -5853,6 +6174,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-028",
+    correlatedIds:"",
     name: "Arwell",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5874,6 +6196,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-029",
+    correlatedIds:"",
     name: "Auka",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5895,6 +6218,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-030",
+    correlatedIds:"",
     name: "Piqui",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5916,6 +6240,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-031",
+    correlatedIds:"",
     name: "Enen",
     sex: "Male",
     birthDate: "Unknown",
@@ -5937,6 +6262,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "PTN-032",
+    correlatedIds:"",
     name: "Solei",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -5961,6 +6287,7 @@ export const individuals: Individuals[] = [
 
 {
     id: "IS-001",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -5977,11 +6304,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-001-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-001-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Annika Firmenich"
 },
 {
     id: "IS-002",
+    correlatedIds:"0103",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -5998,11 +6326,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-002-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-002-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-003",
+    correlatedIds:"0108",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6019,11 +6348,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-003-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-003-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-004",
+    correlatedIds:"0123",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6040,11 +6370,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-004-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-004-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Volker Deecke",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-005",
+    correlatedIds:"SN095",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6061,11 +6392,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-005-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-005-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Volker Deecke",
+    rightcredits: "Photo credit © Volker Deecke"
 },
 {
     id: "IS-006",
+    correlatedIds:"0306",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6082,11 +6414,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-006-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-006-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-007",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6103,11 +6436,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-007-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Volker Deecke",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-008",
+    correlatedIds:"0603",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6124,11 +6458,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-008-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-008-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-009",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6145,11 +6480,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-009-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-009-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-010",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6166,12 +6502,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-010-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-010-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-011",
-    name: "",
+    correlatedIds:"0701 - SN060",
+    name: "Thunderstorm",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6187,11 +6524,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-011-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-011-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-012",
+    correlatedIds:"0702",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6208,11 +6546,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-012-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-012-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-013",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6229,11 +6568,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-013-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-013-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-014",
+    correlatedIds:"886",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6250,11 +6590,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-014-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-015",
+    correlatedIds:"993 - 062",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6271,11 +6612,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-015-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-015-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-016",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -6292,11 +6634,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-016-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Alexandra Fennell",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-017",
+    correlatedIds:"8112",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6313,11 +6656,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-017-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-017-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-018",
+    correlatedIds:"9021",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6334,11 +6678,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-018-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-018-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-019",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6355,11 +6700,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-019-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-019-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-020",
+    correlatedIds:"0111",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6376,11 +6722,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-020-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-020-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Hannah Williams",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-021",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6397,11 +6744,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-021-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-021-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-022",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -6418,11 +6766,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-022-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-022-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Hannah Williams",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-023",
+    correlatedIds:"0147",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6439,11 +6788,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-023-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-023-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Hajime Yoshino",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-024",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6460,11 +6810,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-024-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-024-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Hajime Yoshino"
 },
 {
     id: "IS-025",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6481,11 +6832,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-025-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-025-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Ralph Baylor ",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-026",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6502,11 +6854,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-026-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-026-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-027",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6523,12 +6876,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-027-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-027-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-028",
-    name: "",
+    correlatedIds:"SN083",
+    name: "Odin",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6544,12 +6898,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-028-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-028-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-029",
-    name: "",
+    correlatedIds:"SN081",
+    name: "Idun",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6565,12 +6920,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-029-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-029-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-030",
-    name: "",
+    correlatedIds:"SN053",
+    name: "Von",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6586,11 +6942,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-030-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-030-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Annemieke Podt"
 },
 {
     id: "IS-031",
+    correlatedIds:"9022",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6607,12 +6964,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-031-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-032",
-    name: "",
+    correlatedIds:"SN165",
+    name: "Freckles",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6628,12 +6986,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-032-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-032-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-033",
-    name: "",
+    correlatedIds:"SN169",
+    name: "Magni",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6649,11 +7008,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-033-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-033-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-034",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6670,12 +7030,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-034-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Allan Ligon",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-035",
-    name: "",
+    correlatedIds:"SN080",
+    name: "Skadi",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6691,12 +7052,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-035-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-035-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-036",
-    name: "",
+    correlatedIds:"SN082",
+    name: "Thor",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6712,12 +7074,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-036-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-036-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-037",
-    name: "",
+    correlatedIds:"9118 - SN078",
+    name: "Morning Star",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6733,11 +7096,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-037-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-037-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-038",
+    correlatedIds:"9459",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6754,11 +7118,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-038-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-038-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-039",
+    correlatedIds:"9479",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6775,11 +7140,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-039-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-039-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-040",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6796,11 +7162,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-040-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-040-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-041",
+    correlatedIds:"0118",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -6817,11 +7184,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-041-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-041-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-042",
+    correlatedIds:"9526",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6838,11 +7206,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-042-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-042-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-043",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6859,12 +7228,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-043-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-043-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-044",
-    name: "",
+    correlatedIds:"9530 - SN188",
+    name: "Four",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6880,12 +7250,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-044-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-044-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-045",
-    name: "",
+    correlatedIds:"SN055",
+    name: "Whirlwind",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6901,11 +7272,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-045-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-045-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Kagari Aoki",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-046",
+    correlatedIds:"9706",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6922,11 +7294,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-046-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-046-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-047",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -6943,12 +7316,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-047-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-047-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-048",
-    name: "",
+    correlatedIds:"SN056",
+    name: "Jinn",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6964,12 +7338,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-048-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-048-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-049",
-    name: "",
+    correlatedIds:"9702 - SN061",
+    name: "Alvina",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -6985,11 +7360,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-049-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-049-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-050",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -7006,12 +7382,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-050-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-050-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-051",
-    name: "",
+    correlatedIds:"SN059",
+    name: "Ardence",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7027,11 +7404,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-051-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-051-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-052",
+    correlatedIds:"SN182",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7048,12 +7426,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-052-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-052-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-053",
-    name: "",
+    correlatedIds:"9912 - SN090",
+    name: "Floppy",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7069,11 +7448,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-053-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-053-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-054",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7090,11 +7470,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-054-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-054-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-055",
+    correlatedIds:"9919",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7111,11 +7492,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-055-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-055-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-056",
+    correlatedIds:"9921",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7137,6 +7519,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-057",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -7153,11 +7536,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-057-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-057-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-058",
+    correlatedIds:"SN155",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7174,11 +7558,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-058-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-058-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-059",
+    correlatedIds:"9933",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7195,11 +7580,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-059-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-059-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-060",
+    correlatedIds:"9938",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7221,6 +7607,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-061",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7237,12 +7624,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-061-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-061-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-062",
-    name: "",
+    correlatedIds:"SN062",
+    name: "Arrow",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7258,11 +7646,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-062-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-062-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-063",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7279,11 +7668,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-063-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-063-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-064",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -7300,11 +7690,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-064-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-064-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-065",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -7321,11 +7712,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-065-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-065-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-066",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7347,6 +7739,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-067",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7363,11 +7756,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-067-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-067-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-068",
+    correlatedIds:"0136",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7384,11 +7778,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-068-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-068-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-069",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7405,11 +7800,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-069-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-069-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-070",
+    correlatedIds:"IB-5",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7426,11 +7822,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-070-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-070-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-071",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7452,6 +7849,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-072",
+    correlatedIds:"104",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7468,11 +7866,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-072-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-072-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-073",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7489,11 +7888,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-073-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-073-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-074",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7515,7 +7915,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-075",
-    name: "",
+    correlatedIds:"SN091",
+    name: "Kinky",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7536,7 +7937,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-076",
-    name: "",
+    correlatedIds:"SN054",
+    name: "Snowflake",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7552,11 +7954,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-076-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-076-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-077",
+    correlatedIds:"0120",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7573,11 +7976,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-077-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-078",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7594,11 +7998,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-078-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-078-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-079",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7615,12 +8020,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-079-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-079-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-080",
-    name: "",
+    correlatedIds:"SN057",
+    name: "Hekla",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7636,11 +8042,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-080-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-080-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-081",
+    correlatedIds:"SN186",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7662,7 +8069,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-082",
-    name: "",
+    correlatedIds:"0302 - SN038",
+    name: "Constance",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7683,6 +8091,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-083",
+    correlatedIds:"0303 - SN190",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7699,11 +8108,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-083-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-083-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-084",
+    correlatedIds:"911",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7720,12 +8130,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-084-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-084-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-085",
-    name: "",
+    correlatedIds:"SN139",
+    name: "Eternity",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7741,12 +8152,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-085-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-085-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-086",
-    name: "",
+    correlatedIds:"997 - SN069 - 019",
+    name: "Vendetta/Mousa",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7762,11 +8174,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-086-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-086-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-087",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7783,12 +8196,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-087-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-087-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-088",
-    name: "",
+    correlatedIds:"SN086",
+    name: "Sedna",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7804,11 +8218,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-088-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-088-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-089",
+    correlatedIds:"9707",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -7830,7 +8245,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-090",
-    name: "",
+    correlatedIds:"SN032",
+    name: "Giant",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7846,12 +8262,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-090-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-090-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-091",
-    name: "",
+    correlatedIds:"SN036",
+    name: "Blackout",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7872,7 +8289,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-092",
-    name: "",
+    correlatedIds:"SN018",
+    name: "Bandit",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7893,6 +8311,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-093",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7914,7 +8333,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-094",
-    name: "",
+    correlatedIds:"SN019",
+    name: "Phantom",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7935,6 +8355,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-095",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -7956,7 +8377,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-096",
-    name: "",
+    correlatedIds:"SN173",
+    name: "Mrs Torrance",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7972,12 +8394,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-096-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-096-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-097",
-    name: "",
+    correlatedIds:"SN030",
+    name: "Dauntless",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -7993,11 +8416,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-097-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-097-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-098",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8014,11 +8438,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-098-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-098-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-099",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8035,12 +8460,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-099-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-099-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-100",
-    name: "",
+    correlatedIds:"SN175",
+    name: "Töpsó",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8056,11 +8482,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-100-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-100-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-101",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8082,6 +8509,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-102",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8103,6 +8531,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-103",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8124,6 +8553,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-104",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8145,6 +8575,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-105",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8166,6 +8597,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-106",
+    correlatedIds:"T-38 - 012",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8187,6 +8619,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-107",
+    correlatedIds:"9711",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8203,12 +8636,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-107-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-107-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-108",
-    name: "",
+    correlatedIds:"9922 - SN073",
+    name: "Feather",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8224,11 +8658,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-108-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-108-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-109",
+    correlatedIds:"0135",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8245,11 +8680,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-109-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-109-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-110",
+    correlatedIds:"9926",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8271,6 +8707,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-111",
+    correlatedIds:"IE-1",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8287,11 +8724,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-111-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-112",
+    correlatedIds:"IE-16",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8308,12 +8746,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-112-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-113",
-    name: "",
+    correlatedIds:"IF-4 - SN065 - 021",
+    name: "Defiance",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8329,11 +8768,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-113-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-113-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-114",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8350,11 +8790,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-114-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-114-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-115",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8371,12 +8812,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-115-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-115-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-116",
-    name: "",
+    correlatedIds:"SN084",
+    name: "Shasha",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8397,6 +8839,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-117",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8413,11 +8856,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-117-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-117-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-118",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8434,11 +8878,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-118-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-118-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-119",
+    correlatedIds:"9140 - 9521 - 0140",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8460,6 +8905,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-120",
+    correlatedIds:"SN187",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8481,6 +8927,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-121",
+    correlatedIds:"SN185",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8502,7 +8949,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-122",
-    name: "",
+    correlatedIds:"SN102",
+    name: "Minotaurus",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8518,11 +8966,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-122-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-122-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-123",
+    correlatedIds:"SN112",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8539,11 +8988,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-123-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-123-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-124",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8565,7 +9015,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-125",
-    name: "",
+    correlatedIds:"SN085",
+    name: "Heavyweight",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8581,11 +9032,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-125-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-125-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-126",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8602,11 +9054,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-126-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-126-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-127",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8623,11 +9076,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-127-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-127-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-128",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8644,11 +9098,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-128-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-128-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-129",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8670,6 +9125,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-130",
+    correlatedIds:"SN177",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8686,11 +9142,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-130-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-130-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-131",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8712,6 +9169,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-132",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8733,6 +9191,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-133",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8754,6 +9213,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-134",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8775,6 +9235,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-135",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8796,7 +9257,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-136",
-    name: "",
+    correlatedIds:"SN063",
+    name: "Humpy",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -8817,6 +9279,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-137",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8838,6 +9301,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-138",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8859,6 +9323,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-139",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8875,11 +9340,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-139-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-139-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-140",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -8901,6 +9367,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-141",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8922,6 +9389,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-142",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8943,6 +9411,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-143",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -8959,11 +9428,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-143-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-143-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-144",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -8985,6 +9455,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-145",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9006,6 +9477,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-146",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9027,6 +9499,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-147",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9048,6 +9521,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-148",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9069,6 +9543,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-149",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9090,7 +9565,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-150",
-    name: "",
+    correlatedIds:"SN035",
+    name: "Torch",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9106,12 +9582,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-150-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-150-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-151",
-    name: "",
+    correlatedIds:"SN076",
+    name: "Bazooka",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9127,12 +9604,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-151-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-151-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-152",
-    name: "",
+    correlatedIds:"SN075",
+    name: "Sigrún",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9148,11 +9626,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-152-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-152-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-153",
+    correlatedIds:"SN071",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9169,11 +9648,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-153-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-153-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-154",
+    correlatedIds:"SN151",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9190,12 +9670,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-154-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-154-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-155",
-    name: "",
+    correlatedIds:"SN072",
+    name: "Jasper",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9211,12 +9692,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-155-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-155-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-156",
-    name: "",
+    correlatedIds:"SN098",
+    name: "Scoop",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9237,6 +9719,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-157",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9258,7 +9741,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-158",
-    name: "",
+    correlatedIds:"SN033",
+    name: "Willpower",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9279,6 +9763,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-159",
+    correlatedIds:"SN089",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9295,11 +9780,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-159-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-159-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-160",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9321,6 +9807,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-161",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9342,7 +9829,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-162",
-    name: "",
+    correlatedIds:"SN051",
+    name: "Blackjack",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9358,12 +9846,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-162-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-162-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-163",
-    name: "",
+    correlatedIds:"SN126",
+    name: "Kaliya",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9384,7 +9873,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-164",
-    name: "",
+    correlatedIds:"SN044",
+    name: "Boromir",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9405,6 +9895,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-165",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9421,11 +9912,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-165-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-165-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-166",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9442,12 +9934,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-166-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-166-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-167",
-    name: "",
+    correlatedIds:"SN074",
+    name: "Raggedy",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9463,11 +9956,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-167-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-167-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-168",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9489,7 +9983,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-169",
-    name: "",
+    correlatedIds:"SN077",
+    name: "Arnar",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9505,11 +10000,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-169-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-169-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-170",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9526,11 +10022,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-170-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-170-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-171",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9552,6 +10049,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-172",
+    correlatedIds:"SN068",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9568,11 +10066,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-172-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-172-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-173",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9594,7 +10093,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-174",
-    name: "",
+    correlatedIds:"SN052",
+    name: "Orient",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9610,11 +10110,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-174-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-174-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-175",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9631,11 +10132,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-175-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-175-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-176",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9652,12 +10154,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-176-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-176-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-177",
-    name: "",
+    correlatedIds:"SN153",
+    name: "Triangle",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9673,12 +10176,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-177-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-177-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-178",
-    name: "",
+    correlatedIds:"SN021",
+    name: "Captain Hook",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9699,7 +10203,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-179",
-    name: "",
+    correlatedIds:"SN131",
+    name: "Kórall",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9715,12 +10220,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-179-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-179-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-180",
-    name: "",
+    correlatedIds:"SN092",
+    name: "Dragonfly",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9736,11 +10242,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-180-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-180-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-181",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9757,11 +10264,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-181-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-181-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-182",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9778,11 +10286,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-182-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-182-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-183",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9799,11 +10308,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-183-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-183-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-184",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9820,12 +10330,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-184-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-184-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-185",
-    name: "",
+    correlatedIds:"SN045",
+    name: "Faramir",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -9846,6 +10357,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-186",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9862,11 +10374,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-186-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-186-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-187",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9883,11 +10396,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-187-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-187-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-188",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -9904,11 +10418,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-188-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-188-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-189",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9925,11 +10440,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-189-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-189-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-190",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9946,11 +10462,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-190-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-190-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-191",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -9972,6 +10489,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-192",
+    correlatedIds:"SN094",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -9988,11 +10506,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-192-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-192-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-193",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10009,12 +10528,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-193-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-193-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-194",
-    name: "",
+    correlatedIds:"SN064",
+    name: "Philosopher",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10030,11 +10550,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-194-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-194-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-195",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10056,6 +10577,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-196",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10077,7 +10599,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-197",
-    name: "",
+    correlatedIds:"SN079",
+    name: "Blizzard",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10093,11 +10616,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-197-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-197-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-198",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10119,6 +10643,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-199",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10135,11 +10660,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-199-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-199-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-200",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10161,6 +10687,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-201",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10177,11 +10704,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-201-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-201-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-202",
+    correlatedIds:"~013",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10203,6 +10731,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-203",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10219,12 +10748,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-203-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-203-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-204",
-    name: "",
+    correlatedIds:"SN150",
+    name: "Black Ice",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10245,6 +10775,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-205",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10266,7 +10797,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-206",
-    name: "",
+    correlatedIds:"SN166",
+    name: "Elli",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10287,6 +10819,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-207",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10308,6 +10841,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-208",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10324,11 +10858,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-208-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-208-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-209",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10350,6 +10885,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-210",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10366,11 +10902,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-210-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-210-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-211",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10387,11 +10924,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-211-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-211-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-212",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10413,6 +10951,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-213",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10434,7 +10973,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-214",
-    name: "",
+    correlatedIds:"SN040",
+    name: "Musketeer",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10450,12 +10990,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-214-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-214-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-215",
-    name: "",
+    correlatedIds:"SN037",
+    name: "Lady de Winter",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10476,6 +11017,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-216",
+    correlatedIds:"9543",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10492,12 +11034,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-216-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-216-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-217",
-    name: "",
+    correlatedIds:"SN046",
+    name: "Universe",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10513,11 +11056,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-217-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-217-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-218",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10534,11 +11078,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-218-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-218-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-219",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10555,11 +11100,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-219-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-219-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-220",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10581,6 +11127,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-221",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10597,11 +11144,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-221-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-221-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-222",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10623,6 +11171,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-223",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10639,12 +11188,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-223-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-223-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-224",
-    name: "",
+    correlatedIds:"SN129",
+    name: "Mystery",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10665,6 +11215,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-225",
+    correlatedIds:"0142",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10681,11 +11232,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-225-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-225-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-226",
+    correlatedIds:"SN117",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10702,11 +11254,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-226-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-226-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-227",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10728,6 +11281,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-228",
+    correlatedIds:"SN134",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10744,12 +11298,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-228-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-229",
-    name: "",
+    correlatedIds:"SN067",
+    name: "Nótt",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10765,11 +11320,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-229-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-229-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-230",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10786,11 +11342,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-230-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-230-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-231",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -10807,11 +11364,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-231-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-231-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-232",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10833,6 +11391,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-233",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10849,11 +11408,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-233-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-233-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-234",
+    correlatedIds:"T-36 - 94111",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10870,11 +11430,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-234-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-235",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -10891,12 +11452,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-235-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-235-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-236",
-    name: "",
+    correlatedIds:"SN029",
+    name: "Stormur",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10917,6 +11479,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-237",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10933,11 +11496,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-237-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-237-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow",
+    rightcredits: "Photo credit © Cathy Harlow"
 },
 {
     id: "IS-238",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10954,11 +11518,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-238-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-239",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -10980,7 +11545,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-240",
-    name: "",
+    correlatedIds:"SN149",
+    name: "Flangi",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -10996,11 +11562,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-240-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-240-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-241",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11022,6 +11589,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-242",
+    correlatedIds:"SN147",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11038,11 +11606,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-242-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-242-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-243",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11059,11 +11628,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-243-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-243-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-244",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11080,12 +11650,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-244-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-244-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-245",
-    name: "",
+    correlatedIds:"SN127",
+    name: "Hiccup",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11101,11 +11672,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-245-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-245-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-246",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11127,6 +11699,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-247",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11143,11 +11716,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-247-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-247-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-248",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11164,11 +11738,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-248-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-248-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-249",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11185,11 +11760,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-249-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-249-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-250",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11206,11 +11782,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-250-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-250-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-251",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11227,11 +11804,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-251-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-251-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-252",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11248,12 +11826,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-252-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-252-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-253",
-    name: "",
+    correlatedIds:"SN013",
+    name: "Shackles",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11269,11 +11848,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-253-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-253-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-254",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11290,11 +11870,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-254-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-254-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-255",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11311,12 +11892,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-255-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-255-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-256",
-    name: "",
+    correlatedIds:"SN016",
+    name: "Gambler",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11332,11 +11914,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-256-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-256-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-257",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11353,11 +11936,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-257-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-257-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-258",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11374,11 +11958,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-258-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-258-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-259",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11395,11 +11980,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-259-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-259-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-260",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11416,11 +12002,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-260-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-260-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-261",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11437,11 +12024,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-261-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-261-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-262",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11458,12 +12046,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-262-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-262-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-263",
-    name: "",
+    correlatedIds:"SN142",
+    name: "Natsilane",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11479,12 +12068,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-263-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-263-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-264",
-    name: "",
+    correlatedIds:"SN043",
+    name: "Roulette",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11500,11 +12090,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-264-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-264-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-265",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11521,11 +12112,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-265-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-265-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-266",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11542,11 +12134,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-266-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-266-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-267",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11563,11 +12156,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-267-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-267-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-268",
+    correlatedIds:"0127",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11584,11 +12178,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-268-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-269",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11605,11 +12200,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-269-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-269-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-270",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11626,11 +12222,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-270-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-270-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-271",
+    correlatedIds:"9703",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11647,11 +12244,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-271-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-271-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-272",
+    correlatedIds:"992",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11668,11 +12266,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-272-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-272-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-273",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11689,11 +12288,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-273-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-273-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-274",
+    correlatedIds:"SN047",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11710,12 +12310,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-274-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-274-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-275",
-    name: "",
+    correlatedIds:"SN048",
+    name: "Meteor",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11731,11 +12332,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-275-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-275-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-276",
+    correlatedIds:"SN192",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11752,11 +12354,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-276-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-276-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-277",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11773,11 +12376,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-277-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-277-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-278",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11794,11 +12398,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-278-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-279",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11815,11 +12420,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-279-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-279-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-280",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11836,11 +12442,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-280-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-280-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-281",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -11857,11 +12464,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-281-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-281-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-282",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11878,11 +12486,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-282-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-282-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-283",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11899,12 +12508,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-283-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-283-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-284",
-    name: "",
+    correlatedIds:"SN140",
+    name: "Aurinia",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11920,12 +12530,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-284-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-284-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-285",
-    name: "",
+    correlatedIds:"SN143",
+    name: "Windbells",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -11941,11 +12552,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-285-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-285-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-286",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -11962,11 +12574,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-286-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-286-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-287",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -11983,11 +12596,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-287-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-287-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-288",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12004,12 +12618,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-288-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-288-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-289",
-    name: "",
+    correlatedIds:"SN039",
+    name: "D'Artagnan",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12030,6 +12645,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-290",
+    correlatedIds:"SN125",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12046,11 +12662,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-290-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-290-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-291",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12067,11 +12684,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-291-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-291-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-292",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12088,12 +12706,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-292-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-292-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-293",
-    name: "",
+    correlatedIds:"SN041",
+    name: "Athos",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12109,11 +12728,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-293-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-293-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-294",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12135,6 +12755,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-295",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12156,6 +12777,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-296",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12177,6 +12799,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-297",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12198,7 +12821,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-298",
-    name: "",
+    correlatedIds:"SN003",
+    name: "Stitches",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12214,11 +12838,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-298-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-298-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-299",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12235,11 +12860,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-299-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-299-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-300",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12256,11 +12882,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-300-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-300-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-301",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12277,12 +12904,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-301-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-301-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-302",
-    name: "",
+    correlatedIds:"SN042",
+    name: "Queen Anne",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12303,6 +12931,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-303",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12324,7 +12953,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-304",
-    name: "",
+    correlatedIds:"SN049",
+    name: "Empathy",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12340,11 +12970,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-304-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-304-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-305",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12366,6 +12997,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-306",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12382,11 +13014,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-306-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-306-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-307",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12403,12 +13036,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-307-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-307-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-308",
-    name: "",
+    correlatedIds:"SN023",
+    name: "Sea Star",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12424,12 +13058,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-308-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-308-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-309",
-    name: "",
+    correlatedIds:"SN026",
+    name: "Horizon",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12450,6 +13085,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-310",
+    correlatedIds:"SN130",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12466,11 +13102,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-310-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-310-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-311",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12487,11 +13124,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-311-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-311-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-312",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12508,11 +13146,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-312-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-312-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-313",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12534,6 +13173,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-314",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12550,11 +13190,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-314-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-315",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12571,11 +13212,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-315-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-315-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-316",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12597,6 +13239,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-317",
+    correlatedIds:"0130",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12613,11 +13256,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-317-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-317-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-318",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12634,11 +13278,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-318-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-318-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-319",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12660,6 +13305,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-320",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12681,6 +13327,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-321",
+    correlatedIds:"SN124",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -12697,11 +13344,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-321-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-321-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-322",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12718,12 +13366,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-322-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-322-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-323",
-    name: "",
+    correlatedIds:"SN008",
+    name: "Boomerang",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12739,12 +13388,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-323-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-324",
-    name: "",
+    correlatedIds:"SN136",
+    name: "Amsterdam",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12765,6 +13415,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-325",
+    correlatedIds:"SN176",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12786,6 +13437,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-326",
+    correlatedIds:"SN114",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -12802,12 +13454,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-326-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-326-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-327",
-    name: "",
+    correlatedIds:"SN115",
+    name: "Dropi",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12823,12 +13476,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-327-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-327-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-328",
-    name: "",
+    correlatedIds:"SN170",
+    name: "Rós",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12844,12 +13498,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-328-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-328-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-329",
-    name: "",
+    correlatedIds:"SN116",
+    name: "Aquamarin",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12865,12 +13520,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-329-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-329-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-330",
-    name: "",
+    correlatedIds:"SN113",
+    name: "Riptide",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12886,11 +13542,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-330-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-330-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-331",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -12912,7 +13569,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-332",
-    name: "",
+    correlatedIds:"SN171",
+    name: "Fífill",
     sex: "Male",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12928,12 +13586,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-332-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-333",
-    name: "",
+    correlatedIds:"SN001",
+    name: "Butterfly",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12949,12 +13608,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-333-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-333-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-334",
-    name: "",
+    correlatedIds:"SN006",
+    name: "Earthquake",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12970,12 +13630,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-334-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-334-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-335",
-    name: "",
+    correlatedIds:"SN005",
+    name: "Lightning",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -12991,11 +13652,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-335-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-336",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13012,12 +13674,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-336-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-337",
-    name: "",
+    correlatedIds:"SN172",
+    name: "Smári",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -13033,11 +13696,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-337-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-338",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -13054,11 +13718,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-338-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-338-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-339",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13080,6 +13745,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-340",
+    correlatedIds:"SN183",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13096,11 +13762,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-340-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-340-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-341",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -13117,11 +13784,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-341-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-341-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-342",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -13138,11 +13806,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-342-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-343",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13159,11 +13828,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-343-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-343-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-344",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13180,11 +13850,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-344-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-345",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13201,11 +13872,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-345-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-346",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13227,6 +13899,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-347",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13243,11 +13916,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-347-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-347-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-348",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13264,11 +13938,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-348-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-349",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13285,11 +13960,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-349-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-350",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13306,11 +13982,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-350-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-351",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13327,11 +14004,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-351-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-351-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-352",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13353,6 +14031,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-353",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13369,11 +14048,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-353-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-354",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -13390,11 +14070,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-354-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-355",
+    correlatedIds:"SN096",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13416,6 +14097,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-356",
+    correlatedIds:"SN181",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13437,6 +14119,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-357",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13453,11 +14136,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-357-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-358",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13474,11 +14158,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-358-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-358-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow",
+    rightcredits: "Photo credit © Cathy Harlow"
 },
 {
     id: "IS-359",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13495,11 +14180,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-359-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-359-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-360",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13516,11 +14202,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-360-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-361",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13537,11 +14224,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-361-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-362",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13558,11 +14246,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-362-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-363",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13584,6 +14273,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-364",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13600,11 +14290,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-364-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-364-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © Marjoleine Roos",
 },
 {
     id: "IS-365",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13621,11 +14312,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-365-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-366",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13642,11 +14334,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-366-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-366-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-367",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13663,11 +14356,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-367-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-368",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13689,6 +14383,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-369",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13705,11 +14400,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-369-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-370",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13731,6 +14427,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-371",
+    correlatedIds:"0105",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13747,11 +14444,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-371-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-371-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-372",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13768,11 +14466,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-372-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-372-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-373",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13789,12 +14488,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-373-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-373-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Cathy Harlow",
+    rightcredits: "Photo credit © Cathy Harlow"
 },
 {
     id: "IS-374",
-    name: "",
+    correlatedIds:"SN017",
+    name: "Rogue",
     sex: "Female",
     birthDate: "Unknown",
     deathDate: "...",
@@ -13815,6 +14515,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-375",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13831,11 +14532,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-375-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra ",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-376",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13852,11 +14554,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-376-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-377",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13873,11 +14576,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-377-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Marjoleine Roos",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-378",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -13894,11 +14598,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-378-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-378-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-379",
+    correlatedIds:"",
     name: "",
     sex: "Female",
     birthDate: "Unknown",
@@ -13915,11 +14620,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-379-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-379-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-380",
+    correlatedIds:"SN093",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13936,11 +14642,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-380-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-380-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-381",
+    correlatedIds:"SN180",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13957,11 +14664,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-381-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-381-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-382",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13983,6 +14691,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-383",
+    correlatedIds:"SN087",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -13999,11 +14708,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-383-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-383-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-384",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14020,11 +14730,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-384-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-384-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-385",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14041,11 +14752,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-385-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-385-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-386",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14062,11 +14774,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-386-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-386-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-387",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14083,11 +14796,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-387-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-388",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14104,11 +14818,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-388-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-388-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-389",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14125,11 +14840,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-389-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-390",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14146,11 +14862,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-390-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-391",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14167,11 +14884,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-391-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-392",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14188,11 +14906,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-392-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-392-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-393",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14209,11 +14928,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-393-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-393-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-394",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14230,11 +14950,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-394-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-394-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-395",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14251,11 +14972,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-395-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-395-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-396",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14272,11 +14994,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-396-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-397",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14293,11 +15016,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-397-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-397-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-398",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14314,11 +15038,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-398-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-399",
+    correlatedIds:"SN100",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14335,11 +15060,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-399-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-399-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-400",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14356,12 +15082,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-400-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-400-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Filipa Samarra",
+    rightcredits: "Photo credit © Filipa Samarra"
 },
 {
     id: "IS-401",
-    name: "",
+    correlatedIds:"SN138",
+    name: "Ice Flower",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14377,11 +15104,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-401-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-401-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-402",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14398,12 +15126,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-402-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-402-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-403",
-    name: "",
+    correlatedIds:"SN015",
+    name: "Three Scars",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14419,11 +15148,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-403-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-404",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14440,11 +15170,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-404-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-404-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-405",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14461,11 +15192,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-405-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-405-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-406",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14482,11 +15214,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-406-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-406-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-407",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14503,12 +15236,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-407-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-408",
-    name: "",
+    correlatedIds:"SN070",
+    name: "Attack/Summer",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14524,12 +15258,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-408-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-408-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Olga Filatova",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-409",
-    name: "",
+    correlatedIds:"SN014",
+    name: "Hieroglyph",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14545,11 +15280,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-409-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-410",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14566,11 +15302,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-410-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-411",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14592,6 +15329,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-412",
+    correlatedIds:"SN179",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14608,11 +15346,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-412-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-412-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-413",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14629,11 +15368,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-413-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-413-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-414",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14655,7 +15395,8 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-415",
-    name: "",
+    correlatedIds:"SN108",
+    name: "Little Runaway",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14671,11 +15412,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-415-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-415-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Olga Filatova"
 },
 {
     id: "IS-416",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14692,11 +15434,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-416-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-416-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-417",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14718,6 +15461,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-418",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14734,11 +15478,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-418-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-419",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14760,6 +15505,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-420",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14776,11 +15522,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-420-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-421",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14797,11 +15544,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-421-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-422",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14823,6 +15571,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-423",
+    correlatedIds:"SN152",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14839,11 +15588,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-423-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-423-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-424",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14860,12 +15610,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-424-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-425",
-    name: "",
+    correlatedIds:"SN002",
+    name: "Moon",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14881,12 +15632,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-425-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-425-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-426",
-    name: "",
+    correlatedIds:"SN004",
+    name: "Rainbow",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14902,11 +15654,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-426-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-426-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-427",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14923,12 +15676,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-427-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-428",
-    name: "",
+    correlatedIds:"SN174",
+    name: "Redrum",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14944,11 +15698,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-428-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-428-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-429",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",
@@ -14965,12 +15720,13 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-429-leftside.jpg",
     rightSide: "assets/images/individuals/nodata.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © -"
 },
 {
     id: "IS-430",
-    name: "",
+    correlatedIds:"SN031",
+    name: "Courage",
     sex: "Unkown",
     birthDate: "Unknown",
     deathDate: "...",
@@ -14986,11 +15742,12 @@ export const individuals: Individuals[] = [
     matrilineRole: "",
     leftSide: "assets/images/individuals/Icelandic/IS-430-leftside.jpg",
     rightSide: "assets/images/individuals/Icelandic/IS-430-rightside.jpg",
-    leftcredits: "Photo credit © Icelandic Orca Project",
-    rightcredits: "Photo credit © Icelandic Orca Project"
+    leftcredits: "Photo credit © Sara Tavares",
+    rightcredits: "Photo credit © Sara Tavares"
 },
 {
     id: "IS-431",
+    correlatedIds:"",
     name: "",
     sex: "Male",
     birthDate: "Unknown",
@@ -15012,6 +15769,7 @@ export const individuals: Individuals[] = [
 },
 {
     id: "IS-432",
+    correlatedIds:"",
     name: "",
     sex: "Unkown",
     birthDate: "Unknown",

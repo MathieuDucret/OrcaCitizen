@@ -8,4 +8,5 @@ export class Population {
     diet:string;
     status:string;
     location:string;
+    conservation:string;
   }

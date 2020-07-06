@@ -18,4 +18,5 @@ export class Individuals {
     leftcredits:string;
     rightcredits:string;
     about:string;
+    correlatedIds:string;
   }

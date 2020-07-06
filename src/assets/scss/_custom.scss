@@ -298,10 +298,12 @@
 .nav-pills-custom {
     border-radius: 10px!important;
     color: #121919!important;
+    background-color: transparent!important;
 }
 .nav-pills-custom:hover {
         border-radius: 10px!important;
-        color: #121919!important;
+        color: #223234!important;
+        background-color: #EDF2F3!important;
 }
 
 .nav-pills-custom:active {
@@ -309,6 +311,7 @@
     color: #121919!important;
     border-color:#121919!important;
     border-bottom:blue;
+    background-color: #EDF2F3!important;
 }
 .org-card
 {

@@ -17,6 +17,10 @@
                     <div class="row">
                       <table style="width:100%" class="individual-tab-row">
                         <tr>
+                          <th class="p-b-15">Associated IDs</th>
+                          <td class="p-b-15">{{ individual.correlatedIds }} </td>
+                        </tr>
+                        <tr>
                           <th class="p-b-15">Birth date</th>
                           <td class="p-b-15">{{ individual.birthDate }} </td>
                         </tr>
@@ -85,9 +89,9 @@
                 </div>
                 <!--  ************  --  ************  -->
                 <div class="col-6">
-                    <nav ngbNav #navz="ngbNav" class="nav-justified">
+                    <nav ngbNav #navz="ngbNav" class="nav-justified nav-pills margin-cards">
                       <ng-container ngbNavItem>
-                        <a ngbNavLink >About</a>
+                        <a ngbNavLink class="nav-population nav-pills-custom">About</a>
                         <ng-template ngbNavContent>
                           <div *ngIf="individual">
                             {{ individual.about }}
@@ -95,21 +99,11 @@
                         </ng-template>
                       </ng-container>
                         <ng-container ngbNavItem>
-                          <a ngbNavLink >Media</a>
-                          <ng-template ngbNavContent>
-                            <form class="form-inline waves-light" mdbWavesEffect>
-                                <div class="md-form mt-0">
-                                  <input class="form-control mr-sm-2" type="text" placeholder="Search">
-                                </div>
-                              </form>
-                            </ng-template>
-                        </ng-container>
-                        <!-- <ng-container ngbNavItem>
-                          <a ngbNavLink class="nav-population">More</a>
+                          <a ngbNavLink class="nav-population nav-pills-custom">Media</a>
                           <ng-template ngbNavContent>
                             
-                          </ng-template>
-                        </ng-container>                         -->
+                            </ng-template>
+                        </ng-container>
                       </nav>
                       <div [ngbNavOutlet]="navz" class="mt-2"></div>
                 </div>
